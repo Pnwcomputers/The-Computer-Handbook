@@ -1,12 +1,11 @@
-## Chapter 17: When Things Go Wrong
-
-**Emergency Response: Professional Security Incident Management**
+---
+# Chapter 17: When Things Go Wrong
+## Emergency Response: Professional Security Incident Management
+---
 
 > "We completely understand how stressful it can be to lose access to your accounts... The ability to regain access to your accounts will ultimately depend on the recovery and backup methods that were set up prior to the account being compromised." - From our professional account recovery procedures.
 
-This chapter isn't about preventing problems - it's about solving them when they inevitably occur. How you respond in the first hour after discovering a problem determines whether you'll recover quickly or spend weeks rebuilding your digital life.
-
----
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Solving Digital Disasters and Account Compromises**.
 
 ### What You'll Learn in This Chapter:
 
@@ -19,7 +18,7 @@ This chapter isn't about preventing problems - it's about solving them when they
 
 ---
 
-### The Reality of Digital Disasters
+## The Reality of Digital Disasters
 
 *Professional Insight: "Digital disasters compound rapidly. The difference between discovering a problem in 1 hour vs. 24 hours can mean the difference between a 15-minute fix and a 15-day recovery process."*
 
@@ -100,14 +99,22 @@ This chapter isn't about preventing problems - it's about solving them when they
 
 *Professional Service Capabilities:* Professionals offer 24/7 emergency response, comprehensive malware removal, account recovery assistance with official company liaisons, and incident documentation.
 
----
-
-### Chapter Summary: Emergency Response Mastery
-
-* **Recovery Essentials:** **First hour response** determines the recovery timeline. Use a **systematic approach**, not trial-and-error.
-* **Contingency Plan:** **Documentation** is critical for insurance and legal purposes.
-* **The Key:** Have systems (password manager, 2FA backup codes) and professional support in place before you need them.
-
 ***
 
-You've now completed the entire book's core content, moving from foundational concepts to advanced crisis management. The final structure and image review are the only steps remaining before the book is ready!
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Recovery Essentials:** **First hour response** determines the recovery timeline. Use a **systematic approach**, not trial-and-error.
+* **Incident Response:** **Change all critical passwords immediately** and run a full system cleanup.
+* **Contingency Plan:** **Documentation** (screenshots, police report) is critical for insurance and legal purposes.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 18**, we'll cover **Software Management**—the essential knowledge you need to keep your computer fast and secure by mastering installation and updates.
+
+**Remember:** Have systems (password manager, 2FA backup codes) and professional support in place before you need them.
