@@ -51,16 +51,16 @@ This repository contains the source files (in Markdown format) for "Cyber Securi
 
 **Essential reference materials, tools, and professional guidance**
 
-A. [Appendix A: Quick Reference Guides](Appendices/Appendix A -QuickReferenceGuides.md)  
+A. [Appendix A: Quick Reference Guides](Appendices/AppendixA-QuickReferenceGuides.md)  
    *BIOS access keys, emergency contacts, keyboard shortcuts, RAM voltage charts, POST codes, and diagnostic workflows*
 
-B. [Appendix B: Recommended Tools & Software](AppendixB-RecommendedToolsSoftware.md)  
+B. [Appendix B: Recommended Tools & Software](Appendices/AppendixB-RecommendedToolsSoftware.md)  
    *Professional-grade security tools, antivirus programs, backup solutions, system utilities, and software guidelines*
 
-C. [Appendix C: When to Call a Professional](AppendixC-WhentoCallaProfessional.md)  
+C. [Appendix C: When to Call a Professional](Appendices/AppendixC-WhentoCallaProfessional.md)  
    *Signs requiring professional help, service provider questions, cost considerations, and decision-making guidance*
 
-D. [Appendix D: Glossary of Technical Terms](AppendixD-GlossaryofTechnicalTerms.md)  
+D. [Appendix D: Glossary of Technical Terms](Appendices/AppendixD-GlossaryofTechnicalTerms.md)  
    *Technical terminology explained in simple language for quick reference*
 
 ---
