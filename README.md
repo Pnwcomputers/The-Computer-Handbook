@@ -1,4 +1,4 @@
-# Computers 101
+# The Computer Handbook
 
 This repository contains the source files (in Markdown format) for the book "Computers 101 by Jon-Eric Pienkowski" The content is structured based on 20+ years of professional experience, providing foundational knowledge to keep computers secure and running smoothly.
 
