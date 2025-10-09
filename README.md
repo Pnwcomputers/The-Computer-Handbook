@@ -47,6 +47,23 @@ This repository contains the source files (in Markdown format) for "Cyber Securi
 20. [Chapter 20: Planning for the Future](Part%20VII%20-%20Practical%20Tips%20%26%20Advanced%20Basics/Chapter%2020%20-%20Planning%20for%20the%20Future/Chapter20-PlanningfortheFuture.md)
 
 ---
+## Appendices
+
+**Essential reference materials, tools, and professional guidance**
+
+A. [Appendix A: Quick Reference Guides](Appendices/AppendixA-QuickReferenceGuides.md)  
+   *BIOS access keys, emergency contacts, keyboard shortcuts, RAM voltage charts, POST codes, and diagnostic workflows*
+
+B. [Appendix B: Recommended Tools & Software](AppendixB-RecommendedToolsSoftware.md)  
+   *Professional-grade security tools, antivirus programs, backup solutions, system utilities, and software guidelines*
+
+C. [Appendix C: When to Call a Professional](AppendixC-WhentoCallaProfessional.md)  
+   *Signs requiring professional help, service provider questions, cost considerations, and decision-making guidance*
+
+D. [Appendix D: Glossary of Technical Terms](AppendixD-GlossaryofTechnicalTerms.md)  
+   *Technical terminology explained in simple language for quick reference*
+
+---
 
 ## Repository Structure
 
