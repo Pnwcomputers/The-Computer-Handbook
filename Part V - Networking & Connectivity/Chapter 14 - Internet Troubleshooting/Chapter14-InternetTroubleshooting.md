@@ -1,12 +1,11 @@
-## Chapter 14: Internet Troubleshooting
-
-**Simple Solutions for Common Problems**
+---
+# Chapter 14: Internet Troubleshooting
+## Simple Solutions for Common Problems
+---
 
 > "Make sure there is a valid IP on the printer if using a network connection... Try different driver versions until one works... This isn't about becoming a network engineer - it's about solving the 90% of internet problems that can be fixed at home before calling for expensive professional service."
 
-Most "internet problems" aren't actually internet problems—they're local network issues that look like ISP problems.
-
----
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Solving Connectivity Issues Before Calling the ISP**.
 
 ### What You'll Learn in This Chapter:
 
@@ -19,7 +18,7 @@ Most "internet problems" aren't actually internet problems—they're local netwo
 
 ---
 
-### The Reality of Internet Troubleshooting
+## The Reality of Internet Troubleshooting
 
 *Professional Insight: "The first rule of network troubleshooting: the problem is probably within 10 feet of the person complaining about it. Check everything local before blaming the internet."*
 
@@ -108,12 +107,22 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 * **Router Access:** Find your router's IP address (the **Default Gateway** in `ipconfig`). Access the admin page by entering the IP in a web browser.
 * **WiFi Password Retrieval:** Use the command `netsh wlan show profile name="NETWORK_NAME" key=clear` in an administrator Command Prompt to find the stored password (**Key Content**).
 
----
+***
 
-### Chapter Summary: Your Network Troubleshooting Foundation
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
 
 * **Professional Diagnostic Approach:** 90% of "internet problems" are local. Test **physical layer first**, then test with **Ethernet to eliminate WiFi variables**.
-* **WiFi Reality Check:** WiFi is always slower than Ethernet. Your device's capabilities limit the actual speed you get.
 * **ISP vs. Local Issues:** **Test Ethernet directly to the modem** to isolate an ISP problem. WiFi-only problems are **local network problems**.
+* **WiFi Reality Check:** WiFi is always slower than Ethernet. Your device's capabilities limit the actual speed you get.
 
-A well-configured network is the best security. Now that you've mastered connectivity, you're ready for the next level of security and networking.
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 15**, we'll cover **Printer Setup and Troubleshooting**—the essential knowledge you need for professional installation and problem-solving for your peripherals.
+
+**Remember:** A well-configured network is the best security. Now that you've mastered connectivity, you're ready for the next level of security and networking.
