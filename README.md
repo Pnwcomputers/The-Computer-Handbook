@@ -51,7 +51,7 @@ This repository contains the source files (in Markdown format) for "Cyber Securi
 
 **Essential reference materials, tools, and professional guidance**
 
-A. [Appendix A: Quick Reference Guides](Appendices/AppendixA-QuickReferenceGuides.md)  
+A. [Appendix A: Quick Reference Guides](Appendices/Appendix A -QuickReferenceGuides.md)  
    *BIOS access keys, emergency contacts, keyboard shortcuts, RAM voltage charts, POST codes, and diagnostic workflows*
 
 B. [Appendix B: Recommended Tools & Software](AppendixB-RecommendedToolsSoftware.md)  
