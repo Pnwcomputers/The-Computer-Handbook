@@ -84,3 +84,43 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Command Line Test:** Use the `ping` command to test connectivity:
   ```powershell
   ping [printer-ip-address]
+
+If ping fails, the printer is not talking to the network.
+
+#### Phase 2: Driver and Software Checks
+
+* **Driver Reinstallation:** Uninstall the old driver completely before installing the new one. Always get drivers from the manufacturer's website.
+* **Essential Scanning Software:** Install the **full manufacturer software** for scanning functionality, as Windows built-in tools often don't work.
+
+#### Phase 3: Spooler Service Reset
+
+* **The Problem:** The Windows Print Spooler service manages print jobs. If it crashes, jobs get stuck.
+* **The Fix:** Open **Services** (Type in Start Menu). Find **Print Spooler**. **Right-click and Restart.** This clears stuck print jobs.
+
+---
+
+### When to Call a Professional
+
+* **Persistent Network Failures:** Printer refuses to connect to WiFi after multiple manual attempts.
+* **Hardware Issues:** Paper jams that cannot be cleared manually, error lights that persist after power cycling, or poor print quality after changing cartridges.
+* **Business Environments:** When the issue impacts multiple users or critical business documents.
+
+***
+
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Start with USB:** Test basic functionality directly before attempting a complex network setup.
+* **Static IP:** Use a static IP to prevent the router from assigning a new address that breaks connectivity.
+* **Spooler Service:** Restarting the Print Spooler is the most common fix for stuck print jobs.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 16**, we'll cover **Managing Online Accounts**—the essential knowledge you need to set up your digital life to prevent lockouts and ensure easy recovery.
+
+**Remember:** Most printer problems are network problems, and most scanning problems are software problems. Address the correct component.
