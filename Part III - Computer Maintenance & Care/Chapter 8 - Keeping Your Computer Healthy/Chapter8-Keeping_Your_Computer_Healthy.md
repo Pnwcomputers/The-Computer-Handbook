@@ -1,10 +1,11 @@
-## Chapter 8: Keeping Your Computer Healthy
-
-**Based on Your Tune-up Procedures**
+---
+# Chapter 8: Keeping Your Computer Healthy
+## Based on Your Tune-up Procedures
+---
 
 > "$100 Labor - The computer was in need of much needed cleaning and updating... CCleaner removed over 3.5GB's of junk data from the computer." - From our professional service records.
 
-This isn't just about speed - it's about preventing the disasters that cost hundreds in repairs. Regular maintenance is the difference between a computer that serves you for years and one that fails when you need it most.
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Routine Care That Prevents Disasters**.
 
 ### What You'll Learn in This Chapter:
 
@@ -18,7 +19,7 @@ This isn't just about speed - it's about preventing the disasters that cost hund
 
 ---
 
-### The Reality: Why Computer Maintenance Matters
+## The Reality: Why Computer Maintenance Matters
 
 *Based on thousands of service calls*
 
@@ -171,4 +172,20 @@ Instead of defragmentation, focus on:
 
 ***
 
-In Chapter 9, we'll cover data backup essentials—the safety net that protects everything you value on your computer. Good maintenance makes your computer run better, but good backup ensures that even disaster can't destroy your important files.
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Maintenance Pays:** 30 minutes of monthly care prevents thousands in potential repair costs.
+* **Cleanup Tool:** Use **BleachBit** or Disk Cleanup to safely remove 3–10GB of junk data.
+* **Optimization:** Disable non-essential programs in Task Manager's Startup tab for faster boot times.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 9**, we'll cover **Data Backup Essentials**—the essential knowledge you need to establish the safety net that protects your photos and critical files.
+
+**Remember:** Good maintenance makes your computer run better, but good backup ensures that even disaster can't destroy your important files.
