@@ -1,8 +1,11 @@
-## Chapter 6: Antivirus and Security Software
-
-**Protecting Your Computer from Digital Threats**
+---
+# Chapter 6: Antivirus and Security Software
+## Protecting Your Computer from Digital Threats
+---
 
 > "Fixing a computer issue doesn't mean you have to learn the entire system inside and out. It's like investing time, money and effort into learning all about forging metal, just to make a fork... understanding just enough can get the job done." - Jon P.
+
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Choosing and Using the Right Security Tools**.
 
 ### What You'll Learn in This Chapter:
 
@@ -14,7 +17,7 @@
 
 ---
 
-### Understanding Computer Security: The Basics
+## Understanding Computer Security: The Basics
 
 Think of your computer like your home—you want to keep the bad guys out, but you also need to let the good guys (legitimate programs) in.
 
@@ -159,18 +162,22 @@ You should call for help when:
 * "Will you **back up my data** before starting?"
 * "How will you help **prevent this** from happening again?"
 
----
+***
 
 ### Chapter Summary: Key Takeaways
 
+Review the most critical concepts learned in this chapter to cement your foundation:
+
 * **No single antivirus program is perfect**—professionals use multiple tools.
+* **Infection Protocol:** Disconnect from the internet and reboot into Safe Mode for removal.
 * **Good habits are your best protection.** Most infections are preventable.
-* **Multiple scans** with different tools (ADWCleaner + Malwarebytes) are necessary for thorough cleaning.
-* **Don't attempt financial activities** on a computer you suspect is infected.
 
-*Professional Insight: "The people who get infected the least aren't necessarily the most tech-savvy - they're the most cautious. When in doubt, don't click. It's easier to prevent an infection than to clean one."*
+#### Professional Insight:
 
-### Quick Reference: Emergency Contacts
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-* **If you suspect financial information is compromised:** Contact your bank immediately, change passwords from a clean computer, and monitor accounts closely.
-* **For professional computer help:** Look for local repair shops with good reviews and ask about virus removal guarantees.
+### What's Next?
+
+In **Chapter 7**, we'll cover **What to Do If You're Infected**—the essential knowledge you need to follow the exact step-by-step procedures we use to eliminate malware.
+
+**Remember:** The people who get infected the least aren't necessarily the most tech-savvy - they're the most cautious. When in doubt, don't click. It's easier to prevent an infection than to clean one.
