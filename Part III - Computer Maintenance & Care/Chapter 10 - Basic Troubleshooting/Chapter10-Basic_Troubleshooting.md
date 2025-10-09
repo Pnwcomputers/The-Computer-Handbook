@@ -1,8 +1,11 @@
-## Chapter 10: Basic Troubleshooting
-
-**Simple Solutions for Common Problems**
+---
+# Chapter 10: Basic Troubleshooting
+## Simple Solutions for Common Problems
+---
 
 > "There are no mistakes; only opportunities for improvement." - Jon P.
+
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Solving Common Computer Problems**.
 
 ### What You'll Learn in This Chapter:
 
@@ -14,7 +17,7 @@
 
 ---
 
-### The Professional Mindset: How We Approach Problems
+## The Professional Mindset: How We Approach Problems
 
 When a professional encounters a computer problem, we follow a systematic approach called the **OODA Loop** (Observe, Orient, Decide, Act).
 
@@ -123,12 +126,22 @@ Knowing your limits prevents small problems from becoming catastrophic.
 * **"Is this data irreplaceable?"** If yes, **backup first** or call a professional.
 * **"Am I guessing at solutions?"** If yes, stop and research or ask for help.
 
----
+***
 
-### Chapter Summary: Your Troubleshooting Foundation
+### Chapter Summary: Key Takeaways
 
-* **Professional Principle:** Follow the **OODA Loop** (Observe, Orient, Decide, Act).
-* **Essential Skills:** You can use **Task Manager** to manage programs and **System Scans (SFC, Memory)** to fix system files.
-* **DIY Limit:** Financial issues, hardware noise, and multiple failed attempts are signs to **call a professional.**
+Review the most critical concepts learned in this chapter to cement your foundation:
 
-*Professional Insight: "The most successful computer users know their capabilities and aren't afraid to ask for help when they reach those limits."*
+* **OODA Loop:** Follow the professional approach: Observe, Orient, Decide, Act, making **one change at a time.**
+* **First Steps:** Check power, connections, and always run Task Manager to diagnose slow performance.
+* **Know Your Limit:** Stop immediately and call for help if you hear clicking/grinding noises or suspect banking malware.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+This completes the foundational chapters! We recommend creating a **Final Chapter or Conclusion** to review all key takeaways and provide resources for continued learning.
+
+**Remember:** The most successful computer users know their capabilities and aren't afraid to ask for help when they reach those limits.
