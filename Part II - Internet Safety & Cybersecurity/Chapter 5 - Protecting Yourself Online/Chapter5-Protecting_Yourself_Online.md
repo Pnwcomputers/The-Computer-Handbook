@@ -1,10 +1,11 @@
-## Chapter 5: Protecting Yourself Online
-
-**Your Digital Fortress: Professional Protection Strategies That Actually Work**
+---
+# Chapter 5: Protecting Yourself Online
+## Your Digital Fortress: Professional Protection Strategies That Actually Work
+---
 
 > "I thought my password was secure - it was 'password123!'" - What 40% of hacked clients say. "Strong passwords are your first line of defense, but they're just the beginning of real online protection." - Professional reality after 20+ years of security cleanups.
 
-After helping thousands of clients recover from online attacks, identity theft, and digital harassment, this chapter gives you the exact protection strategies we implement for every client.
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Professional Strategies We Implement for Every Client**.
 
 ### What You'll Learn in This Chapter:
 
@@ -17,7 +18,7 @@ After helping thousands of clients recover from online attacks, identity theft, 
 
 ---
 
-### The Reality: Your Current Protection Probably Isn't Working
+## The Reality: Your Current Protection Probably Isn't Working
 
 *From Our Front-Line Security Experience*
 
@@ -187,20 +188,22 @@ Install these on **all** browsers (Chrome, Firefox, Edge, etc.):
 * **Primary Security Suite** (Choose One): Bitdefender Total Security or Kaspersky Total Security.
 * **Essential Tools:** Malwarebytes Premium, Password Manager (Bitwarden/1Password), uBlock Origin.
 
-### Chapter Summary: Your Digital Protection Foundation
-
-* **Annual Security Investment:** $150–$200 for professional-grade protection.
-* **Average Attack Cost:** $4,000–$15,000 in damages and recovery time.
-* **Return on Investment:** Every dollar spent saves **$20–$75** in attack damages.
-
-#### Your 30-Day Security Implementation Plan:
-
-* **Week 1 (Foundation):** Install password manager, change top 10 passwords, enable 2FA on banking/email, install browser extensions.
-* **Week 2 (Hardening):** Complete social media privacy lockdown, install professional antivirus suite, set up email security protocols.
-* **Week 3 (Monitoring):** Enable account monitoring alerts, set up identity monitoring, create incident response contact list.
-
 ***
 
-In the next chapter, we'll cover basic computer maintenance and troubleshooting—how to keep your newly secured computer running optimally and solve common problems before they require professional intervention.
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Password Standard:** Always use 16+ character, unique passwords managed by a password manager.
+* **2FA Priority:** Enable Two-Factor Authentication immediately on all financial and email accounts.
+* **Phishing Defense:** Don't click on urgent, generic emails; verify on the official website manually.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 6**, we'll cover **Antivirus and Security Software**—the essential knowledge you need to choose and use the right tools to protect your computer.
 
 **Remember:** Online protection isn't about living in fear—it's about taking control of your digital life and making informed security decisions.
