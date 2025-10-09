@@ -1,4 +1,4 @@
-# Computers 101 - Book Table of Contents
+# Computers 101
 
 This repository contains the source files (in Markdown format) for "Computers 101." The content is structured based on 20+ years of professional experience, providing foundational knowledge to keep computers secure and running smoothly.
 
