@@ -1,10 +1,11 @@
-## Chapter 1: Understanding Your Computer
-
-**The Essential Basics Everyone Should Know**
+---
+# Chapter 1: Understanding Your Computer
+## The Essential Basics Everyone Should Know
+---
 
 > "You don't need to understand how every part of your car works to drive safely and maintain it properly. The same is true with computers - knowing just enough can get you where you need to go." - Jon P.
 
----
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Essential Basics of Your Computer**.
 
 ### What You'll Learn in This Chapter:
 
@@ -16,7 +17,7 @@
 
 ---
 
-### What Is a Computer, Really?
+## What Is a Computer, Really?
 
 If you've ever felt intimidated by computers, here's a secret: **a computer is just a very fast calculator that can remember things.** That's it. Everything else—the videos, music, internet, games—is just different ways of using that basic calculating and memory capability.
 
@@ -285,30 +286,22 @@ Professional insight from 20+ years of service
 * **Installing everything:** Be selective about what software you install.
 * **Skipping updates:** Updates often fix security problems and bugs.
 
----
+***
 
-### Chapter Summary: Your Foundation
+### Chapter Summary: Key Takeaways
 
-#### Key Concepts to Remember:
+Review the most critical concepts learned in this chapter to cement your foundation:
 
-* Computers are sophisticated calculators—not magic boxes
-* **CPU** = brain, **RAM** = workspace, **storage** = filing cabinet
-* **Desktop** = power and value, **Laptop** = portability and convenience
-* **Hardware** = physical parts, **Software** = programs and instructions
+* **Hardware vs. Software:** Know the difference between the physical parts and the instructions.
+* **RAM and Storage:** More RAM lets you multitask; an SSD offers instant speed.
+* **Realistic Expectations:** Computers need maintenance and won't read your mind.
 
-#### Your Next Steps:
+#### Professional Insight:
 
-* Identify your current computer specs using the methods above
-* Familiarize yourself with your ports and connections
-* Start using correct terminology (it helps when asking for help)
-* Set realistic expectations for your learning timeline
-
-***Professional Insight:***
-
-> "The best computer users aren't the ones who know everything - they're the ones who know their limits and aren't afraid to ask questions. In 20+ years, I've never met anyone who couldn't learn to use a computer effectively. It just takes patience and practice."
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
 ### What's Next?
 
-In Chapter 2, we'll dive into your operating system—the software that makes your computer work. You'll learn to navigate Windows confidently, understand what you're looking at, and start developing good habits that will serve you well throughout your computer journey.
+In **Chapter 2**, we'll cover **Operating Systems Basics**—the essential knowledge you need to learn to navigate Windows confidently.
 
 **Remember:** Every expert was once a beginner. The goal isn't to know everything—it's to know enough to do what you need to do safely and effectively.
