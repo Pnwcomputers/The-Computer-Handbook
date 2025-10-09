@@ -20,7 +20,7 @@ This repository contains the source files (in Markdown format) for the book "Com
 5.  [Chapter 5: Protecting Yourself Online](Part%20II%20-%20Internet%20Safety%20%26%20Cybersecurity/Chapter%205%20-%20Protecting%20Yourself%20Online/Chapter5-Protecting_Yourself_Online.md)
 6.  [Chapter 6: Antivirus and Security Software](Part%20II%20-%20Internet%20Safety%20%26%20Cybersecurity/Chapter%206%20-%20Antivirus%20and%20Security%20Software/Chapter6-Antivirus_and_Security_Software.md)
 
-### Part 3: System Maintenance and Crisis (Chapters 7–12)
+### Part 3: System Maintenance & Crisis (Chapters 7–12)
 *Professional procedures for cleaning, troubleshooting, and hardware diagnosis.*
 
 7.  [Chapter 7: What to Do If You're Infected](Part%20II%20-%20Internet%20Safety%20%26%20Cybersecurity/Chapter%207%20-%20What%20to%20Do%20If%20You're%20Infected/Chapter7-WhattoDo_IfYoure_Infected.md)
