@@ -73,3 +73,23 @@ D. [Appendix D: Glossary of Technical Terms](Appendices/AppendixD-GlossaryofTech
 | **`ChapterXX-Title.md`** | The complete text of each book chapter. |
 | **`Images/`** | Contains all image assets, organized by chapter. |
 | **`_templates/`** | Contains the standardized `chapter_header.md` and `chapter_footer.md` files for consistent structure. |
+
+---
+
+## 📋 Author & Company Information:
+
+## Pacific Northwest Computers & GIF Computers - [Linktree](http://www.linktr.ee/pnwcomputers)
+
+For questions, issues, or contributions to this handbook, please contact Jon Pienkowski: support@pnwcomputers.com
+
+---
+
+## Copyright & License
+
+© 2025 Pacific NW Computers. All rights reserved.
+
+This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
+
+---
+
+**Last Updated**: October 2025
