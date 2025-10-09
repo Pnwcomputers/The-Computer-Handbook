@@ -70,14 +70,16 @@ When replacing a router, you can minimize downtime by configuring the new equipm
 
 1.  **Pre-Migration Documentation:** Record your old router's **IP range** (e.g., `192.168.1.x`), **WiFi SSID** and **password**, and any **static IP assignments** (printers, cameras).
 2.  **Pre-Configuration (Air-Gapped Setup):** Set up the new router **separately** (not connected to the internet yet). Access its interface and configure it to use the **same SSID, same password, and same IP address range** as the old router.
-3.  **Cutover:** Power off the old equipment completely. Install the new, pre-configured equipment in the same location and power it on. **Devices won't know the hardware changed** and should reconnect automatically.
+3.  **Cutover:** Power off the old equipment completely. Install the new, pre-configured equipment in the same location and power it on. 
 
+**Devices won't know the hardware changed** and should reconnect automatically.
 *Windows WiFi Password Retrieval (Professional Command):*
-```powershell
+- powershell:
 netsh wlan show profiles
 netsh wlan show profile name="NETWORK_NAME" key=clear
 
-Look for **"Key Content"** to find the stored password.
+
+**Look for **"Key Content"** to find the stored password.
 
 ### Smart Home and IoT Device Connectivity
 
