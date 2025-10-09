@@ -1,12 +1,11 @@
-## Chapter 19: Performance Optimization
-
-**Based on Your Tune-Up Procedures**
+---
+# Chapter 19: Performance Optimization
+## Systematic Management for Lasting Speed
+---
 
 > "Applied a performance tune-up to the system to maximize performance; start-up program/services management, temp/cache/cookie file clean-up, visual effects optimization and paging file optimization. CCleaner removed over 3.5GB's of junk data from the computer." - From our professional computer cleanup procedures.
 
-This chapter is about systematic performance optimization based on 20+ years of professional computer tune-ups. We know which optimizations actually work and how to diagnose whether your slow computer needs software cleanup or hardware upgrades.
-
----
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Systematically Managing System Resources**.
 
 ### What You'll Learn in This Chapter:
 
@@ -19,7 +18,7 @@ This chapter is about systematic performance optimization based on 20+ years of 
 
 ---
 
-### The Reality of Computer Performance
+## The Reality of Computer Performance
 
 *Professional Insight: "Computer performance problems are rarely solved by throwing money at hardware. 90% of slow computers we service are actually fast computers buried under years of digital accumulation."*
 
@@ -100,12 +99,22 @@ This chapter is about systematic performance optimization based on 20+ years of 
 * **Targeted Upgrades (8% of cases):** Only upgrade hardware after a specific bottleneck (e.g., RAM usage at 95% constantly) has been identified through resource monitoring.
 * **System Replacement (2% of cases):** Consider new hardware if upgrade costs exceed **60% of a new system's replacement cost** or if the system architecture is too obsolete (7+ years old).
 
----
+***
 
-### Chapter Summary: Professional Performance Mastery
+### Chapter Summary: Key Takeaways
 
-* **Optimization Reality:** Software optimization provides the biggest performance gains for the lowest cost. **Try optimization first—always.**
-* **Storage Essentials:** Regular cleanup and an **SSD** are the cornerstones of lasting performance.
-* **Decision Making:** Use **HWiNFO** and **Task Manager** to identify the *actual* bottleneck (CPU, RAM, or storage) before spending money on upgrades.
+Review the most critical concepts learned in this chapter to cement your foundation:
 
-*Professional Insights: "The most expensive performance upgrades are the unnecessary ones... The best upgrade is the one that addresses a measured bottleneck for a reasonable cost."*
+* **Optimization Reality:** Software cleanup (junk files, startup programs) provides the biggest performance gains for the lowest cost.
+* **Storage Essentials:** An **SSD** is the most dramatic single upgrade for performance. **Never defragment an SSD.**
+* **Decision Making:** Use **Task Manager** and diagnostic tools to identify the *actual* bottleneck (CPU, RAM, or storage) before spending money.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 20**, we'll cover **Planning for the Future**—the essential knowledge you need to make smart, long-term technology and security decisions.
+
+**Remember:** The most expensive performance upgrades are the unnecessary ones. The best upgrade is the one that addresses a measured bottleneck for a reasonable cost.
