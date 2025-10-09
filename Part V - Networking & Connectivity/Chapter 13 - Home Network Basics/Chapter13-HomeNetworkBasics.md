@@ -1,10 +1,11 @@
-## Chapter 13: Home Network Basics
-
-**Professional Setup and Troubleshooting for Your Digital Life**
+---
+# Chapter 13: Home Network Basics
+## Professional Setup and Troubleshooting for Your Digital Life
+---
 
 > "When assisting a client in this situation, there are several methods to retrieve Wi-Fi credentials and account login information from the existing computer." - From our professional network procedures.
 
-Home networking is the foundation for your entire digital life. Professional-level setup and troubleshooting can save you from countless connectivity headaches.
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Setting Up and Maintaining a Reliable Home Network**.
 
 ### What You'll Learn in This Chapter:
 
@@ -17,7 +18,7 @@ Home networking is the foundation for your entire digital life. Professional-lev
 
 ---
 
-### The Reality of Home Networking Today
+## The Reality of Home Networking Today
 
 *Your network is now your lifeline for work, smart devices, and streaming services.*
 
@@ -70,14 +71,13 @@ When replacing a router, you can minimize downtime by configuring the new equipm
 
 1.  **Pre-Migration Documentation:** Record your old router's **IP range** (e.g., `192.168.1.x`), **WiFi SSID** and **password**, and any **static IP assignments** (printers, cameras).
 2.  **Pre-Configuration (Air-Gapped Setup):** Set up the new router **separately** (not connected to the internet yet). Access its interface and configure it to use the **same SSID, same password, and same IP address range** as the old router.
-3.  **Cutover:** Power off the old equipment completely. Install the new, pre-configured equipment in the same location and power it on. 
+3.  **Cutover:** Power off the old equipment completely. Install the new, pre-configured equipment in the same location and power it on.
 
 **Devices won't know the hardware changed** and should reconnect automatically.
 *Windows WiFi Password Retrieval (Professional Command):*
 - powershell:
-netsh wlan show profiles
-netsh wlan show profile name="NETWORK_NAME" key=clear
-
+`netsh wlan show profiles`
+`netsh wlan show profile name="NETWORK_NAME" key=clear`
 
 **Look for **"Key Content"** to find the stored password.
 
@@ -114,11 +114,22 @@ Recognize the limits of DIY networking.
 * **Infrastructure Projects:** You need **wired network installation** (running ethernet cables through walls) or **enterprise-grade security** (VLANs, advanced VPNs).
 * **Professional Service Selection:** Ask prospective technicians if they perform a **site survey** (a professional assessment of coverage needs).
 
-### Chapter Summary: Your Network Foundation
+***
 
-* **Location Matters** more than equipment—central, elevated, unobstructed.
-* **Configuration Compatibility** is key for modern IoT devices.
-* **Documentation is Essential**—record your changed settings and passwords.
-* **DIY Limit:** Persistent issues, complex network design, and physical infrastructure work should be escalated to a professional.
+### Chapter Summary: Key Takeaways
 
-A well-configured home network is invisible when it's working properly. Spend time setting it up right once, and enjoy years of reliable connectivity.
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Location Matters:** Place the router centrally, elevated, and away from interference for optimal coverage.
+* **Configuration:** Always change the default admin password and use **WPA2 or WPA3 security**.
+* **Migration:** Use the **Air-Gapped Setup** method to configure the new router with the old network settings for a smooth transition.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 14**, we'll cover **Internet Troubleshooting**—the essential knowledge you need to solve common connectivity issues before blaming your ISP.
+
+**Remember:** A well-configured home network is invisible when it's working properly. Spend time setting it up right once, and enjoy years of reliable connectivity.
