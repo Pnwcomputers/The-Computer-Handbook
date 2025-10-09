@@ -60,5 +60,5 @@ This repository contains the source files (in Markdown format) for "Computers 10
 Copyright & License
 © 2025 Pacific NW Computers. All rights reserved.
 
-This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
+This book is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
 
