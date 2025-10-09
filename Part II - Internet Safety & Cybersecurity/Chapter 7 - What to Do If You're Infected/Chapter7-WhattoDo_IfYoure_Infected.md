@@ -1,10 +1,11 @@
-## Chapter 7: What to Do If You're Infected
-
-**Emergency Response: Professional Malware Removal Procedures That Actually Work**
+---
+# Chapter 7: What to Do If You're Infected
+## Emergency Response: Professional Malware Removal Procedures That Actually Work
+---
 
 > "Every minute counts when dealing with malware. The right response in the first hour can save weeks of recovery time." - Professional reality after 20+ years of emergency cleanings.
 
-After removing 70,000+ infections, this chapter gives you the exact step-by-step procedures we use to assess, contain, and eliminate malware infections.
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Professional Malware Removal Procedures**.
 
 ### What You'll Learn in This Chapter:
 
@@ -16,7 +17,7 @@ After removing 70,000+ infections, this chapter gives you the exact step-by-step
 
 ---
 
-### The Reality: Time is Critical When You're Infected
+## The Reality: Time is Critical When You're Infected
 
 *From Our Emergency Response Experience*
 
@@ -131,14 +132,22 @@ Stopping Reinfection Before It Starts
 | **Ransomware** | **Disconnect from network** (prevent spread). Document ransom message. Check backups immediately. **Contact professional assessor before payment.** |
 | **Business Network** | Network isolation of affected systems. Incident response team activation. Professional forensics and removal. |
 
-### Chapter Summary: Professional Infection Response
-
-* **Early Detection** prevents 90% of serious damage.
-* **Systematic Removal** ensures complete threat elimination.
-* **Prevention Implementation** (post-cleaning hardening) stops 95% of reinfections.
-
 ***
 
-In Chapter 8, we'll cover basic computer maintenance—the routine care that prevents problems before they become emergencies and keeps your cleaned system running optimally for years.
+### Chapter Summary: Key Takeaways
+
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Time is Critical:** Quick response determines the final cost and data safety.
+* **Containment:** Disconnect from the internet immediately when a threat is confirmed.
+* **Professional Help:** Seek help for ransomware, financial malware, or if the system won't boot.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 8**, we'll cover **Keeping Your Computer Healthy**—the essential knowledge you need to master the routine care that prevents problems before they become emergencies.
 
 **Remember:** Malware infection isn't a matter of if, but when. Being prepared with professional response procedures turns potential disasters into manageable inconveniences.
