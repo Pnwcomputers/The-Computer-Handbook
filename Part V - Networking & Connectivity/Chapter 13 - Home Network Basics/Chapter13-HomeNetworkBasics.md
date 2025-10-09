@@ -76,3 +76,47 @@ When replacing a router, you can minimize downtime by configuring the new equipm
 ```powershell
 netsh wlan show profiles
 netsh wlan show profile name="NETWORK_NAME" key=clear
+
+Look for **"Key Content"** to find the stored password.
+
+### Smart Home and IoT Device Connectivity
+
+*What worked for laptops and phones doesn't always work for IoT devices.*
+
+#### Professional IoT Setup Strategy
+
+Many IoT devices prefer 2.4GHz WiFi and older security standards, causing issues with modern routers.
+
+* **Network Band Configuration:** If devices struggle to connect, create a **separate 2.4GHz network** (or disable *band steering*).
+* **Security Settings:** Use **WPA2 security** (not WPA3) for maximum compatibility with older devices.
+* **Troubleshooting Tip:** Disable **client isolation** (prevents device-to-device communication) and ensure **multicast/broadcast traffic** is enabled (required for device discovery).
+
+### Wireless Troubleshooting: Professional Systematic Approach
+
+#### Problem: WiFi Connected But No Internet
+
+1.  **Verify Internet at Router (Wired Check):** Connect a computer directly to the router via ethernet. If this works, the problem is your **WiFi configuration**. If it fails, the problem is the **ISP or modem**.
+2.  **Check DNS Settings:** If you can't access websites but are connected, change your DNS servers. Set the computer or router to use a reliable public DNS (e.g., Google: `8.8.8.8`).
+
+#### Problem: Slow WiFi Performance
+
+1.  **Speed Testing Protocol:** Test wired vs. wireless to find the bottleneck. Test at different locations to identify coverage issues.
+2.  **Solutions:** Change the WiFi channel (use **1, 6, or 11** for 2.4GHz). Move the router to a more **central, elevated location**.
+
+### When to Call a Professional
+
+Recognize the limits of DIY networking.
+
+* **Complex Requirements:** Need coverage for **multiple buildings** or a **very large home**.
+* **Technical Challenges:** Persistent connectivity issues after trying standard troubleshooting, or you suspect **ISP equipment integration problems** (like "double-NAT").
+* **Infrastructure Projects:** You need **wired network installation** (running ethernet cables through walls) or **enterprise-grade security** (VLANs, advanced VPNs).
+* **Professional Service Selection:** Ask prospective technicians if they perform a **site survey** (a professional assessment of coverage needs).
+
+### Chapter Summary: Your Network Foundation
+
+* **Location Matters** more than equipment—central, elevated, unobstructed.
+* **Configuration Compatibility** is key for modern IoT devices.
+* **Documentation is Essential**—record your changed settings and passwords.
+* **DIY Limit:** Persistent issues, complex network design, and physical infrastructure work should be escalated to a professional.
+
+A well-configured home network is invisible when it's working properly. Spend time setting it up right once, and enjoy years of reliable connectivity.
