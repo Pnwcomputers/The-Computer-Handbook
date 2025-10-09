@@ -56,3 +56,9 @@ This repository contains the source files (in Markdown format) for "Computers 10
 | **`ChapterXX-Title.md`** | The complete text of each book chapter. |
 | **`Images/`** | Contains all image assets, organized by chapter. |
 | **`_templates/`** | Contains the standardized `chapter_header.md` and `chapter_footer.md` files for consistent structure. |
+
+Copyright & License
+© 2025 Pacific NW Computers. All rights reserved.
+
+This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
+
