@@ -1,10 +1,11 @@
-## Chapter 12: Basic Hardware Maintenance
-
-**Cleaning Your Computer, Managing Heat and Ventilation, Cable Management, When to Upgrade vs Replace**
+---
+# Chapter 12: Basic Hardware Maintenance
+## Cleaning Your Computer, Managing Heat and Ventilation
+---
 
 > "Here's some dust buildup in your system; a deep clean can improve cooling and performance." - From our professional upselling conversations.
 
-This isn't about becoming a hardware expert - it's about extending your computer's life through simple maintenance that prevents expensive problems. Most hardware failures we see are preventable through basic care that takes minutes, not hours.
+After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Extending Your Computer's Lifespan Through Simple Care**.
 
 ### What You'll Learn in This Chapter:
 
@@ -17,7 +18,7 @@ This isn't about becoming a hardware expert - it's about extending your computer
 
 ---
 
-### The Reality of Hardware Neglect
+## The Reality of Hardware Neglect
 
 *Professional Insight: "Hardware maintenance isn't about making things perfect - it's about removing the barriers that prevent hardware from doing its job... Remove the blocks, hardware lasts twice as long."*
 
@@ -27,7 +28,7 @@ This isn't about becoming a hardware expert - it's about extending your computer
 
 * **Thermal Throttling:** The CPU automatically slows down (performance drops 20–50%) when temperatures exceed safe limits to cool itself.
 * **Component Degradation:** High temperatures accelerate the aging of electronic parts (capacitors, solder joints).
-* **Catastrophic Failure:** CPUs shut down at 100°C+ to prevent permanent damage.
+* **Catastrophic Failure:** CPUs shut down at $100^\circ\text{C}+$ to prevent permanent damage.
 
 | Professional Temperature Guidelines (Under Load) |
 | :--- |
@@ -110,6 +111,20 @@ Thermal paste transfers heat from the CPU to the cooler. It degrades (dries out)
 
 ***
 
-Congratulations! You now have a complete, professional-grade guide to **Cyber Security, Computer Fundamentals, and Maintenance.** You are no longer just a user—you are an informed digital citizen.
+### Chapter Summary: Key Takeaways
 
-What's next? In the final step, we will compile your Table of Contents (README.md) and review the overall structure and flow of the entire book.
+Review the most critical concepts learned in this chapter to cement your foundation:
+
+* **Heat Management:** Dust blocks airflow leading to **thermal throttling** (slow performance). Clean fans and vents monthly.
+* **Upgrades vs. Replace:** The **SSD upgrade** is the most cost-effective performance boost regardless of age.
+* **Maintenance Schedule:** Consistent monthly cleaning and annual internal checks are crucial for longevity.
+
+#### Professional Insight:
+
+> "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
+
+### What's Next?
+
+In **Chapter 13**, we'll cover **Home Network Basics**—the essential knowledge you need for professional setup and troubleshooting of your Wi-Fi and internet.
+
+**Remember:** The best computer users are the ones who proactively maintain their hardware and address issues before they become failures.
