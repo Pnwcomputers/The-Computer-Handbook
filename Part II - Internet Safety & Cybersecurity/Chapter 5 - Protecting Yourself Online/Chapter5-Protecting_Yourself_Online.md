@@ -232,6 +232,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 6**, we'll cover **Antivirus and Security Software**—the essential knowledge you need to choose and use the right tools to protect your computer.
+In [Chapter 6](Part%20II%20-%20Internet%20Safety%20%26%20Cybersecurity/Chapter%206%20-%20Antivirus%20and%20Security%20Software/Chapter6-Antivirus_and_Security_Software.md), we'll cover **Antivirus and Security Software**—the essential knowledge you need to choose and use the right tools to protect your computer.
 
 **Remember:** Online protection isn't about living in fear—it's about taking control of your digital life and making informed security decisions.
