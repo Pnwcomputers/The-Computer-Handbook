@@ -115,6 +115,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 20**, we'll cover **Planning for the Future**—the essential knowledge you need to make smart, long-term technology and security decisions.
+In [Chapter 20](../Chapter%2020%20-%20Planning%20for%20the%20Future/Chapter20-PlanningfortheFuture.md), we'll cover **Planning for the Future**—the essential knowledge you need to make smart, long-term technology and security decisions.
 
 **Remember:** The most expensive performance upgrades are the unnecessary ones. The best upgrade is the one that addresses a measured bottleneck for a reasonable cost.
