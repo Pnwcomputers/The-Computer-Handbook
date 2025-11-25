@@ -121,3 +121,22 @@ Review the most critical concepts learned in this chapter to cement your foundat
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
 **Remember:** Technology should serve you, not control you. The habits you build today will determine whether technology enhances your productivity for years to come or creates constant stress and expense.
+
+---
+## Appendices
+
+**Essential reference materials, tools, and professional guidance**
+
+A. [Appendix A: Quick Reference Guides](Appendices/AppendixA-QuickReferenceGuides.md)  
+   *BIOS access keys, emergency contacts, keyboard shortcuts, RAM voltage charts, POST codes, and diagnostic workflows*
+
+B. [Appendix B: Recommended Tools & Software](Appendices/AppendixB-RecommendedToolsSoftware.md)  
+   *Professional-grade security tools, antivirus programs, backup solutions, system utilities, and software guidelines*
+
+C. [Appendix C: When to Call a Professional](Appendices/AppendixC-WhentoCallaProfessional.md)  
+   *Signs requiring professional help, service provider questions, cost considerations, and decision-making guidance*
+
+D. [Appendix D: Glossary of Technical Terms](Appendices/AppendixD-GlossaryofTechnicalTerms.md)  
+   *Technical terminology explained in simple language for quick reference*
+
+---
