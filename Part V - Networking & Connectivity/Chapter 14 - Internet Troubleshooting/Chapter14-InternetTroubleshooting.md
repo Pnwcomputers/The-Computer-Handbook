@@ -26,6 +26,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 Your internet connection has 4 distinct segments: **Your Device** → **Your Local Network** → **Your ISP** → **The Destination**. Most problems occur in your local equipment (Device and Local Network).
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/ooda loop for internet issues.png" width="400" height="400" alt="OODA Loop">
+</p>
+
 #### The Professional OODA Loop for Network Issues:
 
 1.  **Observe:** Gather data on affected devices, error patterns, and recent changes.
@@ -37,6 +41,10 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 
 ### Common Connectivity Issues: Professional Solutions
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/internet troubleshooting.png" width="400" height="400" alt="Internet Troubleshooting">
+</p>
+
 #### Problem: "Internet is Down" (Complete Connectivity Loss)
 
 1.  **Check Physical Layer:** Verify router and modem power lights (must be solid, not blinking/red). Check Ethernet cables.
@@ -46,6 +54,10 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 * *If wired to modem works:* Router problem.
 * *If wired to modem fails:* ISP or modem problem.
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/modem status lights.png" width="400" height="400" alt="Modem Status Lights">
+</p>
+
 #### Problem: "Internet is Slow" (Performance Issues)
 
 1.  **Professional Speed Test:** Connect via **Ethernet directly to the router**. Close all background programs. Test from `fast.com` and `speedtest.net`. Compare to advertised speed.
@@ -53,7 +65,15 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 
 *Common Causes:* Old **WiFi standards** (802.11g is 20Mbps max, regardless of ISP speed), **distance** from router, or **network congestion**.
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/speedtest.png" width="400" height="400" alt="Internet Speed Test">
+</p>
+
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/slow wifi.png" width="400" height="400" alt="Slow Wifi">
+</p>
 
 ### WiFi Problems and Solutions: Professional Approach
 
@@ -67,10 +87,22 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 
 *Why this matters:* If your device only supports an older standard, the problem isn't your ISP.
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/24 and 5ghz compared.png" width="400" height="400" alt="Wifi Frequencies">
+</p>
+
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/wifi signal issues.png" width="400" height="400" alt="Wifi Signal Issues">
+</p>
+
 #### Problem: "WiFi Keeps Disconnecting" (Intermittent Connectivity)
 
 * **WiFi Signal Analysis:** **Router placement** must be central, elevated, and not enclosed. Check for **Interference sources** (microwaves, baby monitors).
 * **Professional Solutions:** If all devices disconnect, the router may be **overheating** or have **outdated firmware**. If a single device disconnects, its **WiFi adapter may be failing**.
+
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/smart home device connection.png" width="400" height="400" alt="Smart Home Devices">
+</p>
 
 #### Smart Home Device Setup: Professional Approach
 
@@ -78,6 +110,10 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 * **Setup Tip:** Install devices **closest to the router first** to establish a baseline. Verify the 2.4GHz network is broadcasting and accessible, as many devices will not work on 5GHz.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/isp vs local internet issues.png" width="400" height="400" alt="ISP vs Local Network Issues">
+</p>
 
 ### When to Call Your ISP: Professional Decision Making
 
@@ -90,6 +126,10 @@ Your internet connection has 4 distinct segments: **Your Device** → **Your Loc
 | Multiple neighbors report the same issue. | Speed test passes via Ethernet (local network problem). |
 
 *Professional Preparation:* **Test with Ethernet directly to the modem** before calling. Run speed tests to establish a baseline. Check the ISP's website for service outages.
+
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/isp call prep list.png" width="400" height="400" alt="ISP Call Info Prep List">
+</p>
 
 ---
 
