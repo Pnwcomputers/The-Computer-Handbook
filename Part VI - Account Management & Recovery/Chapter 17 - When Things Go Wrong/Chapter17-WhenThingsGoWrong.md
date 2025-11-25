@@ -18,6 +18,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 17 - When Things Go Wrong/digital disaster.png" width="400" height="400" alt="Digital Disaster">
+</p>
+
 ## The Reality of Digital Disasters
 
 *Professional Insight: "Digital disasters compound rapidly. The difference between discovering a problem in 1 hour vs. 24 hours can mean the difference between a 15-minute fix and a 15-day recovery process."*
@@ -36,6 +40,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 3.  **Long-term Protection (First Month):** Implement improved security (better passwords, 2FA), review backup procedures, and monitor for ongoing issues.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 17 - When Things Go Wrong/Access Denied.jpg" width="400" height="400" alt="Access Denied">
+</p>
 
 ### Locked Out of Accounts: Professional Recovery Procedures
 
@@ -59,6 +67,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 17 - When Things Go Wrong/account compromised.png" width="400" height="400" alt="Compromised Account">
+</p>
+
 ### Compromised Accounts: Security Incident Response
 
 #### Recognizing Account Compromise: Professional Warning Signs
@@ -73,6 +85,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 4.  **Browser Cleanup:** Check all installed browsers for malicious extensions. **Reset browser settings to defaults** if heavily modified.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 17 - When Things Go Wrong/id theft.png" width="400" height="400" alt="Identity Theft">
+</p>
 
 ### Identity Theft Prevention and Response
 
@@ -89,6 +105,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 3.  **Financial Cleanup:** **Call your bank/credit card company immediately** to report the fraud and request card cancellation and replacement.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 17 - When Things Go Wrong/professional help.png" width="400" height="400" alt="When to Get Help">
+</p>
 
 ### When to Handle It Yourself vs. When to Call Professionals
 
