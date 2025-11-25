@@ -234,4 +234,4 @@ Setting up a new computer properly requires careful planning and systematic exec
 
 *Professional Reminder: Keep your old computer accessible for 2–4 weeks after setup completion. This allows you to retrieve any forgotten data or settings that might be needed after you start using the new system regularly.*
 
-In [Chapter 4](../Chapter%204%20-%20File%20Management%20and%20Organization/Chapter4-File_Management_and_Organization.md), we'll explore internet safety and basic cybersecurity practices to keep your new computer and data protected from online threats.
+In [Chapter 4](../../Part%20II%20-%20Internet%20and%20Connectivity/Chapter%204%20-%20[Name]/Chapter4-[Name].md), we'll explore internet safety and basic cybersecurity practices to keep your new computer and data protected from online threats.
