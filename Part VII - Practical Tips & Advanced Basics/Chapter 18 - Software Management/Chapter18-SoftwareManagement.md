@@ -110,6 +110,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 19**, we'll cover **Performance Optimization**—the essential knowledge you need to systematically manage system resources for lasting speed.
+In [Chapter 19](../Chapter%2019%20-%20Performance%20Optimization/Chapter19-PerformanceOptimization.md), we'll cover **Performance Optimization**—the essential knowledge you need to systematically manage system resources for lasting speed.
 
 **Remember:** The most expensive software isn't the kind you buy - it's the bloatware you don't remove.
