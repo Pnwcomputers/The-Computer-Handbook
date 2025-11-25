@@ -4,11 +4,15 @@
 
 ---
 
-### Choosing the Right Computer for Your Needs
+## Choosing the Right Computer for Your Needs
 
 Before you buy, it's crucial to understand what you actually need. Many people either overspend on features they'll never use or underspend and end up frustrated with poor performance. Here's how professionals assess computer needs:
 
-#### Step 1: Define Your Usage
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/specs needed funel.png" width="460" height="460" alt="What Specs do you Need?">
+</p>
+
+### Step 1: Define Your Usage
 
 Ask yourself these fundamental questions:
 
@@ -24,7 +28,14 @@ Ask yourself these fundamental questions:
     * **High-End:** Gaming, video editing, heavy multitasking
     * **Extreme:** 3D rendering, simulations, professional workstations
 
-#### Step 2: Hardware Specifications Guide
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/ram specs.png" width="460" height="460" alt="RAM">
+</p>
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/storage specs.png" width="460" height="460" alt="Storage">
+</p>
+
+### Step 2: Hardware Specifications Guide
 
 | Component | Recommendation for Modern Computing | Note |
 | :--- | :--- | :--- |
@@ -33,7 +44,11 @@ Ask yourself these fundamental questions:
 | **Storage** | **SSD (Solid State Drive)** | SSD is faster, more reliable, and quieter. HDD is only recommended for secondary storage. |
 | **Graphics (GPU)** | Integrated graphics | Sufficient for basic computing and office work. A dedicated card is only needed for gaming or intensive graphics work. |
 
-#### Step 3: Form Factor Decision
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/form factors.jpg" width="460" height="460" alt="Different Computer Case Shapes">
+</p>
+
+### Step 3: Form Factor Decision
 
 * **Desktop Considerations:**
     * More upgrade potential and better price-to-performance ratio
@@ -46,7 +61,7 @@ Ask yourself these fundamental questions:
 
 *Professional Tip: Desktop computers typically offer better performance per dollar and are easier to repair and upgrade, giving them a longer useful life.*
 
-#### Step 4: Budget Planning
+### Step 4: Budget Planning
 
 Consider these realistic budget ranges for a computer without peripherals (monitor, etc.):
 
@@ -59,11 +74,15 @@ Consider these realistic budget ranges for a computer without peripherals (monit
 
 ---
 
-### Initial Setup Steps
+## Initial Setup Steps
 
 Once you have your new computer, follow these professional setup procedures. These steps are based on hundreds of successful computer setups.
 
-#### Windows 11 Initial Setup (OOBE - Out of Box Experience)
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/oobe bypass.png" width="460" height="460" alt="Bypass Needing to Setup and Use a Microsoft Account">
+</p>
+
+### Windows 11 Initial Setup (OOBE - Out of Box Experience)
 
 *Professional Setup Method (Bypassing Forced Online Account):*
 
@@ -78,7 +97,11 @@ Once you have your new computer, follow these professional setup procedures. The
 
 *Why This Method?* This professional approach gives you more control over the initial setup and avoids forcing you into Microsoft account creation or unnecessary online services during setup.
 
-#### Initial System Configuration
+### Initial System Configuration
+
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/bloatware removal.png" width="460" height="460" alt="Bloatware Removal">
+</p>
 
 1.  **Remove Bloatware:** New computers come with unnecessary software that slows performance.
     * Uninstall "free trial" software (antivirus trials, office suites).
@@ -97,7 +120,7 @@ Once you have your new computer, follow these professional setup procedures. The
     * Adjust power settings for your usage pattern.
     * Configure **automatic backups** (covered in detail later).
 
-#### User Account Management
+### User Account Management
 
 **Creating User Accounts:**
 
@@ -112,11 +135,15 @@ Once you have your new computer, follow these professional setup procedures. The
 
 ---
 
-### Essential Software Installation
+## Essential Software Installation
 
 Based on professional computer setup experience, here are the essential software categories every computer needs:
 
-#### Security Software (First Priority)
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/software priortiy.png" width="460" height="460" alt="What To Install First">
+</p>
+
+### Security Software (First Priority)
 
 Security should be your first installation priority:
 
@@ -127,7 +154,7 @@ Security should be your first installation priority:
 * **System Cleanup Tools:** (Use Cautiously)
     * BleachBit or CCleaner are common tools to delete temporary files and free up disk space.
 
-#### Web Browsers
+### Web Browsers
 
 Install multiple browsers for compatibility and backup:
 
@@ -138,7 +165,7 @@ Install multiple browsers for compatibility and backup:
 
 *Professional Setup Tip: Configure browser synchronization with your accounts to maintain bookmarks and passwords across devices.*
 
-#### Essential Utilities (Recommended via Ninite.com)
+### Essential Utilities (Recommended via Ninite.com)
 
 **Ninite.com** is a professional favorite—it installs multiple programs without bloatware. Recommended utilities:
 
@@ -146,7 +173,7 @@ Install multiple browsers for compatibility and backup:
 * **Media:** VLC Media Player (plays virtually any format), MusicBee (music library).
 * **Productivity Frameworks:** Java Runtime, .NET Framework (required by many applications).
 
-#### Microsoft Office Setup
+### Microsoft Office Setup
 
 If you need Office applications:
 
@@ -154,16 +181,16 @@ If you need Office applications:
 * Activate with your license key or subscription.
 * Configure Outlook email, if applicable, and test document creation.
 
-#### Peripheral Software
+### Peripheral Software
 
 * **Printers and Scanners:** Download current drivers from manufacturer websites and set your primary printer as default.
 * **Specialized Hardware:** Install drivers for graphics cards (NVIDIA, AMD, Intel) and audio devices.
 
 ---
 
-### System Customization and Final Steps
+## System Customization and Final Steps
 
-#### Desktop and Interface Setup
+### Desktop and Interface Setup
 
 To make your new computer feel familiar:
 
@@ -171,7 +198,11 @@ To make your new computer feel familiar:
 * **Taskbar/Start Menu:** Configure the taskbar with frequently used applications and pin essential apps to the Start Menu.
 * **File Explorer Setup:** Set up **Quick Access** folders for frequently used locations and **show file extensions** for better file management.
 
-#### Final System Testing
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/system checklist.png" width="460" height="460" alt="Final Checklist">
+</p>
+
+### Final System Testing
 
 Before considering your setup complete, **test everything**:
 
@@ -179,13 +210,13 @@ Before considering your setup complete, **test everything**:
 * **Applications:** Open each installed program to ensure proper functionality and verify multimedia playback.
 * **Performance Verification:** Monitor startup time (should be under 30 seconds with SSD), check available storage space, and test sleep/wake functionality.
 
-#### Professional Setup Tips
+### Professional Setup Tips
 
 * **Documentation:** Keep a record of installed software, license keys, and any custom configurations.
 * **Backup Strategy:** Set up automatic file backups immediately and create a system recovery point after setup is complete.
 * **Security:** Enable automatic security updates, configure firewall rules, and install/configure a password manager.
 
-### Chapter Summary
+## Chapter Summary
 
 Setting up a new computer properly requires careful planning and systematic execution. By following these professional procedures, you ensure:
 
