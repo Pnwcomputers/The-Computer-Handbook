@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Extending Your Computer's Lifespan Through Simple Care**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * Professional computer cleaning procedures (safe and effective)
 * Understanding heat management and thermal throttling
@@ -22,7 +22,11 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Professional Insight: "Hardware maintenance isn't about making things perfect - it's about removing the barriers that prevent hardware from doing its job... Remove the blocks, hardware lasts twice as long."*
 
-#### Understanding Computer Heat Management
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/avoidable failure.png" width="400" height="400" alt="Avoidable Failures">
+</p>
+
+### Understanding Computer Heat Management
 
 **How Heat Kills Computers:**
 
@@ -38,11 +42,19 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Tools We Use for Monitoring:* **HWiNFO64** (Real-time temperature logging) and **FurMark** (Graphics stress testing).
 
-### Cleaning Your Computer: Professional Procedures
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/heat vs performance.png" width="400" height="400" alt="Heat vs Performance">
+</p>
+
+## Cleaning Your Computer: Professional Procedures
 
 **Why Cleaning Matters:** Dust blocks air vents, coats components (acting as insulation), and clogs fans, accelerating component degradation.
 
-#### Professional Cleaning Tools:
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/safe cleaning.png" width="400" height="400" alt="Safe Cleaning Tools">
+</p>
+
+### Professional Cleaning Tools:
 
 * **Essential Equipment:** **Compressed air** (canned or electric blower), **Anti-static wrist strap** (prevents component damage), **Microfiber cloths**.
 
@@ -52,25 +64,40 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 | Hold compressed air can **upright** and use **short bursts**. | Don't touch circuit boards with fingers (oils cause corrosion). |
 | Work in a well-lit, **unplugged**, and **grounded** area. | Never use water or liquid cleaners on internal components. |
 
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/dust kills.png" width="400" height="400" alt="Keep Your Computer Clean">
+</p>
+
 *Internal Cleaning (Desktop):* Remove the side panel, hold the fan blades, and blow compressed air through the fins and vents, aiming the dust away from the rest of the components.
 
 *Internal Cleaning (Laptop):* Clean external vents with compressed air only. **Do NOT disassemble**—the risk is too high for most users.
 
-### Managing Heat and Ventilation
+## Managing Heat and Ventilation
 
 **Airflow Basics:** Cool air enters the front/bottom of the case; warm air exits the rear/top.
 
 * **Computer Positioning:** Give the computer **6+ inches clearance on all sides with vents**. Raise the desktop off the carpet. Avoid enclosed desk cubbies.
 * **Professional Tip:** Clean intake vents monthly and ensure cables are not blocking internal fan paths.
 
-#### Thermal Compound Maintenance
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/laptop lift.png" width="400" height="400" alt="Laptop Lift for Better Cooling">
+</p>
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/laptop vent cooling.png" width="400" height="400" alt="Keep Your Laptop Clean">
+</p>
+
+### Thermal Compound Maintenance
 
 Thermal paste transfers heat from the CPU to the cooler. It degrades (dries out) over time, usually after **3–5 years**.
 
 * **Symptoms of Degradation:** Gradual temperature increases, constant fan noise, automatic CPU throttling (slow performance).
 * **DIY Replacement (Advanced):** Requires high-quality thermal paste and is risky for first-time users. *Consider professional service to ensure proper application and cooler remounting.*
 
-### Cable Management for Performance
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/cable management.png" width="400" height="400" alt="Cable Management">
+</p>
+
+## Cable Management for Performance
 
 **Why it Matters:** Loose cables block fans and air paths, creating "air dams" that lead to heat buildup and throttling.
 
@@ -78,7 +105,11 @@ Thermal paste transfers heat from the CPU to the cooler. It degrades (dries out)
 * **Separate Power and Data:** Power cables should run on one side, and data cables (SATA, etc.) on the other side to avoid electrical interference.
 * **Simple Improvement:** **Anyone can push loose cables away from fan paths** and secure major bundles with cable ties.
 
-### When to Upgrade vs Replace: Professional Decision Making
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/single component upgrade.png" width="400" height="400" alt="Cable Management">
+</p>
+
+## When to Upgrade vs Replace: Professional Decision Making
 
 *Professional Rule: If the repair cost exceeds **50% of the replacement cost**, recommend replacing the computer.*
 
@@ -96,7 +127,11 @@ Thermal paste transfers heat from the CPU to the cooler. It degrades (dries out)
 
 ---
 
-### Creating Your Hardware Maintenance Schedule
+<p align="center">
+  <img src="/Images/Chapter 12 - Basic Hardware Maintenance/maintainance scheudle.png" width="400" height="400" alt="Keep Your Computer Clean">
+</p>
+
+## Creating Your Hardware Maintenance Schedule
 
 | Maintenance Task | Schedule | Goal | Professional Service Indicator |
 | :--- | :--- | :--- | :--- |
@@ -104,14 +139,14 @@ Thermal paste transfers heat from the CPU to the cooler. It degrades (dries out)
 | **Temperature Check** | Quarterly (45 min) | Run **HWiNFO64** to establish load temperature baseline. | **Unusual hardware noises** (clicking/grinding). |
 | **Internal Cleaning** | Annually (2+ hours) | Internal cleaning and cable check. | Performance problems persist after cleaning/maintenance. |
 
-#### Your Action Plan:
+### Your Action Plan:
 
 * **This Week:** Download **HWiNF064** and establish a temperature baseline. Perform external cleaning and check computer positioning for ventilation.
 * **Ongoing:** Follow your monthly/quarterly maintenance schedule consistently. Address hardware issues **before they become failures**.
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -119,11 +154,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Upgrades vs. Replace:** The **SSD upgrade** is the most cost-effective performance boost regardless of age.
 * **Maintenance Schedule:** Consistent monthly cleaning and annual internal checks are crucial for longevity.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In [Chapter 13](../../Part%20V%20-%20Networking%20%26%20Connectivity/Chapter%2013%20-%20Home%20Network%20Basics/Chapter13-HomeNetworkBasics.md), we'll cover **Home Network Basics**—the essential knowledge you need for professional setup and troubleshooting of your Wi-Fi and internet.
 
