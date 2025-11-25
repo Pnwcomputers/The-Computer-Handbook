@@ -18,7 +18,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/total security.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/total security.png" width="460" height="460" alt="Total Security">
 </p>
 
 ## Understanding Computer Security: The Basics
@@ -43,13 +43,13 @@ Understanding how these threats get onto your computer is your first line of def
 * **Social Engineering:** When criminals trick you into installing malware by pretending to be helpful (e.g., a pop-up that says "Your computer is infected! Click here to clean it!").
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/anivirus metaphors vs reality.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/anivirus metaphors vs reality.png" width="460" height="460" alt="Antivirus Truths">
 </p>
 
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nvq7mrnvq7mrnvq7.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nvq7mrnvq7mrnvq7.png" width="460" height="460" alt="Antivirus">
 </p>
 
 ## Choosing Antivirus Software: What Actually Works
@@ -68,7 +68,7 @@ Think of computer security like security at a major stadium:
 Even if something gets past your primary antivirus by appearing legitimate, your secondary tools will audit and verify it anyway. This layered approach leads to more secure systems and more thoroughly cleaned computers when infections occur.
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/paid for vs free av.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/paid for vs free av.png" width="460" height="460" alt="Paid vs Free">
 </p>
 
 ### Windows Defender: Your Primary Gatekeeper
@@ -97,7 +97,7 @@ Good News: If you have Windows 10 or 11, you already have solid antivirus protec
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/protection flow chart.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/protection flow chart.png" width="460" height="460" alt="Protection Flow Chart">
 </p>
 
 ## Step-By-Step: Cleaning an Infected Computer
@@ -114,7 +114,7 @@ Good News: If you have Windows 10 or 11, you already have solid antivirus protec
 * **Unexpected Programs** you don't remember installing.
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/clean up flow chart.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/clean up flow chart.png" width="460" height="460" alt="Clean-up Flow Chart">
 </p>
 
 ### The Professional Cleaning Process
@@ -169,7 +169,7 @@ After cleaning, create a system restore point so you can return to this clean st
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nehae4nehae4neha.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nehae4nehae4neha.png" width="460" height="460" alt="Prevention">
 </p>
 
 ## Prevention: Your Best Defense
@@ -192,7 +192,7 @@ After cleaning, create a system restore point so you can return to this clean st
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 6 - Antivirus and Security Software/When to stop and call.png" width="460" height="460" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/When to stop and call.png" width="460" height="460" alt="When to call a Professional">
 </p>
 
 ## When to Call a Professional
