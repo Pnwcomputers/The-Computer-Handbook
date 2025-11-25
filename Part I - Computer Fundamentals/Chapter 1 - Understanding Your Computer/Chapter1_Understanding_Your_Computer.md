@@ -324,7 +324,7 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In [Chapter 2](/Part%20I%20-%20Computer%20Fundamentals/Chapter%202%20-%20Operating%20Systems%20Basics/Chapter2-Operating_Systems_Basics.md)
+In [Chapter 2](../Chapter%202%20-%20Operating%20Systems%20Basics/Chapter2-Operating_Systems_Basics.md)
 , we'll cover **Operating Systems Basics**—the essential knowledge you need to learn to navigate Windows confidently.
 
 **Remember:** Every expert was once a beginner. The goal isn't to know everything—it's to know enough to do what you need to do safely and effectively.
