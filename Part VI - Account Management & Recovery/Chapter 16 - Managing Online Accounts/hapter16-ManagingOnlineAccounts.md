@@ -123,6 +123,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 17**, we'll cover **When Things Go Wrong**—the essential knowledge you need for emergency response and professional security incident management.
+In [Chapter 17](../Chapter%2017%20-%20When%20Things%20Go%20Wrong/Chapter17-WhenThingsGoWrong.md), we'll cover **When Things Go Wrong**—the essential knowledge you need for emergency response and professional security incident management.
 
 **Remember:** Every account lockout we see could have been prevented with 10 minutes of proper setup when the account was created.
