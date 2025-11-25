@@ -30,11 +30,11 @@ Think of your computer like a very efficient office worker who can:
 
 The "magic" isn't magic at all—it's just doing millions of simple calculations very quickly.
 
-### The Essential Parts: Your Computer's Body and Brain
+## The Essential Parts: Your Computer's Body and Brain
 
 Let's start with what matters for everyday users. I'll skip the technical jargon and focus on what you actually need to know.
 
-#### The Brain: CPU (Central Processing Unit)
+### The Brain: CPU (Central Processing Unit)
 
 * **What it is:** The CPU is literally the **"brain"** of your computer. Every task—opening a program, loading a website, playing a video—requires the CPU to do calculations.
 * **What you need to know:**
@@ -51,7 +51,7 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 * Programs take 30+ seconds to open
 * Everything feels sluggish, even simple tasks
 
-#### Memory: RAM (Random Access Memory)
+### Memory: RAM (Random Access Memory)
 
 * **What it is:** RAM is your computer's short-term memory—its **workspace**. When you open a program or file, it gets loaded into RAM so the CPU can work with it quickly.
 * **What you need to know:**
@@ -68,7 +68,7 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 * You hear the hard drive working constantly (grinding or clicking sounds—this usually means the system is using the slower hard drive as temporary memory)
 * Programs crash or close unexpectedly when multitasking
 
-#### Storage: Hard Drive or SSD
+### Storage: Hard Drive or SSD
 
 * **What it is:** This is your computer's **long-term memory**—where it stores everything permanently, even when turned off.
 
@@ -85,7 +85,7 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 
 *Real-world comparison:* Hard drives are like filing cabinets—they hold everything, but finding and accessing files takes time. SSDs are like having everything organized on your desk—instant access.
 
-#### The Foundation: Motherboard
+## The Foundation: Motherboard
 
 * **What it is:** The motherboard is the main circuit board that connects everything together. Think of it as your computer's **nervous system**.
 * **What you need to know:**
@@ -101,11 +101,11 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 
 ---
 
-### Desktop vs. Laptop: Making the Right Choice
+## Desktop vs. Laptop: Making the Right Choice
 
 Based on 20+ years of helping customers choose computers
 
-#### Desktop Computers
+### Desktop Computers
 
 * **Best for:**
     * Home office workers who don't need portability
@@ -124,7 +124,7 @@ Based on 20+ years of helping customers choose computers
     * Requires separate monitor, keyboard, mouse
     * More cables and setup
 
-#### Laptop Computers
+### Laptop Computers
 
 * **Best for:**
     * Students and mobile workers
@@ -143,7 +143,7 @@ Based on 20+ years of helping customers choose computers
     * Battery eventually needs replacement
     * More prone to damage from drops or spills
 
-#### Professional Recommendation:
+### Professional Recommendation:
 
 | Choose a **Desktop** if: | Choose a **Laptop** if: |
 | :--- | :--- |
@@ -154,11 +154,11 @@ Based on 20+ years of helping customers choose computers
 
 ---
 
-### Identifying What You Have
+## Identifying What You Have
 
 Let's figure out what computer you're currently using (if any). This information will help you understand your current capabilities and what might need upgrading.
 
-#### Finding Your Computer's Specifications (Windows)
+### Finding Your Computer's Specifications (Windows)
 
 **Method 1: The Easy Way**
 
@@ -181,7 +181,7 @@ Let's figure out what computer you're currently using (if any). This information
 2.  Click **"This PC"**
 3.  Look at your drive letters (usually C:) to see total and available storage
 
-#### What Those Numbers Mean
+### What Those Numbers Mean
 
 * When you see something like **"Intel Core i5-8250U @ 1.60GHz"**:
     * **Intel** = Brand (Intel or AMD are the main ones)
@@ -198,7 +198,7 @@ Let's figure out what computer you're currently using (if any). This information
 
 ---
 
-### Essential Computer Terminology (Plain English)
+## Essential Computer Terminology (Plain English)
 
 These are terms you'll encounter throughout this book and in everyday computer use:
 
@@ -213,7 +213,7 @@ These are terms you'll encounter throughout this book and in everyday computer u
 
 ---
 
-### Common Ports and Connections
+## Common Ports and Connections
 
 Understanding the ports (connection holes) on your computer helps you connect devices and troubleshoot problems.
 
@@ -226,25 +226,25 @@ Understanding the ports (connection holes) on your computer helps you connect de
     * **USB-C:** Smaller, oval shape (newer, reversible)
     * *Different speeds exist, but they're mostly compatible with each other.*
 
-#### HDMI Port (High-Definition Multimedia Interface)
+### HDMI Port (High-Definition Multimedia Interface)
 
 * **What it looks like:** Trapezoid-shaped slot
 * **What connects:** External monitors, TVs, projectors
 * **Why it matters:** Easiest way to connect to a bigger screen or TV
 
-#### Audio Jack (3.5mm)
+### Audio Jack (3.5mm)
 
 * **What it looks like:** Small circular hole
 * **What connects:** Headphones, speakers, microphones
 * *Usually color-coded: Green for speakers, pink for microphone*
 
-#### Ethernet Port (Network Port)
+### Ethernet Port (Network Port)
 
 * **What it looks like:** Rectangular slot slightly larger than USB
 * **What connects:** Wired internet connection
 * **Why it matters:** More reliable than WiFi for stationary computers
 
-#### Power Port
+### Power Port
 
 * **What it looks like:** Round or rectangular slot (varies by model)
 * **What connects:** Power adapter/charger
@@ -252,7 +252,7 @@ Understanding the ports (connection holes) on your computer helps you connect de
 
 ---
 
-### Setting Realistic Expectations
+## Setting Realistic Expectations
 
 Professional insight from 20+ years of service
 
@@ -264,21 +264,21 @@ Professional insight from 20+ years of service
 * **Information access:** Research, news, entertainment
 * **Automation:** Handling repetitive tasks
 
-#### What Computers Don't Do Well:
+### What Computers Don't Do Well:
 
 * **Reading your mind:** You need to be specific about what you want
 * **Working with no maintenance:** Like cars, they need occasional care
 * **Lasting forever:** Technology advances, things wear out
 * **Protecting themselves:** They need your help to stay secure
 
-#### Realistic Timeline for Learning:
+### Realistic Timeline for Learning:
 
 * **Basic operation:** 2-4 weeks of regular use
 * **Comfortable competence:** 2-3 months
 * **Confident independence:** 6-12 months
 * **Advanced skills:** Ongoing (even experts keep learning)
 
-#### Common Beginner Mistakes (And How to Avoid Them):
+### Common Beginner Mistakes (And How to Avoid Them):
 
 * **Clicking too fast:** Computer needs time to respond. Wait for actions to complete.
 * **Ignoring error messages:** Read them carefully—they usually tell you what's wrong.
@@ -288,7 +288,7 @@ Professional insight from 20+ years of service
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -296,11 +296,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **RAM and Storage:** More RAM lets you multitask; an SSD offers instant speed.
 * **Realistic Expectations:** Computers need maintenance and won't read your mind.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 2**, we'll cover **Operating Systems Basics**—the essential knowledge you need to learn to navigate Windows confidently.
 
