@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Choosing and Using the Right Security Tools**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * What antivirus software actually does (and what it doesn't do)
 * How to choose reliable security software
@@ -17,11 +17,15 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/total security.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
 ## Understanding Computer Security: The Basics
 
 Think of your computer like your home—you want to keep the bad guys out, but you also need to let the good guys (legitimate programs) in.
 
-#### The Digital Bad Guys:
+### The Digital Bad Guys:
 
 * **Viruses:** Digital diseases that delete files, slow down your computer, or steal information.
 * **Malware:** The umbrella term for all malicious (bad) software. It includes viruses, but also the threats below.
@@ -29,7 +33,7 @@ Think of your computer like your home—you want to keep the bad guys out, but y
 * **Spyware:** Software that secretly watches what you do (passwords, credit cards) and reports back to criminals.
 * **Browser Hijacks:** When software takes control of your web browser, changing your home page, search engine, or redirecting you to fake sites.
 
-#### How Infections Happen (So You Can Avoid Them)
+### How Infections Happen (So You Can Avoid Them)
 
 Understanding how these threats get onto your computer is your first line of defense:
 
@@ -38,15 +42,27 @@ Understanding how these threats get onto your computer is your first line of def
 * **Infected Websites:** Some sites automatically download malware to your computer just by visiting them.
 * **Social Engineering:** When criminals trick you into installing malware by pretending to be helpful (e.g., a pop-up that says "Your computer is infected! Click here to clean it!").
 
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/anivirus metaphors vs reality.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
 ---
 
-### Choosing Antivirus Software: What Actually Works
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nvq7mrnvq7mrnvq7.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## Choosing Antivirus Software: What Actually Works
 
 *Based on 20+ years of field experience removing malware*
 
 **The Truth About Antivirus Software:** No single antivirus program catches everything. That's why professional computer technicians use multiple tools.
 
-#### Windows Defender: Your Built-In Protection
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/paid for vs free av.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+### Windows Defender: Your Built-In Protection
 
 Good News: If you have Windows 10 or 11, you already have decent antivirus protection built-in.
 
@@ -56,7 +72,7 @@ Good News: If you have Windows 10 or 11, you already have decent antivirus prote
 | Updates itself regularly. | Limited protection against browser hijacks. |
 | Free with Windows. | Fewer features than paid alternatives. |
 
-#### Professional-Grade Tools (What We Actually Use)
+### Professional-Grade Tools (What We Actually Use)
 
 | Category | Product | Note |
 | :--- | :--- | :--- |
@@ -67,20 +83,28 @@ Good News: If you have Windows 10 or 11, you already have decent antivirus prote
 
 ---
 
-### Step-By-Step: Cleaning an Infected Computer
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/protection flow chart.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## Step-By-Step: Cleaning an Infected Computer
 
 *Adapted from our professional virus removal procedures*
 
 > ⚠️ **Important Safety Warning:** If your computer handles sensitive information (banking, business), and you suspect a keylogger, **stop using it for sensitive activities immediately.** Change your passwords from a different, clean computer.
 
-#### Signs Your Computer Might Be Infected:
+### Signs Your Computer Might Be Infected:
 
 * Dramatically **Slow Performance** (long startup/program open times).
 * **Pop-up Advertisements** when you're not browsing the internet.
 * **Changed Browser Settings** (different home page or search engine).
 * **Unexpected Programs** you don't remember installing.
 
-#### The Professional Cleaning Process
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/clean up flow chart.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+### The Professional Cleaning Process
 
 **Step 1: Disconnect from the Internet**
 
@@ -127,25 +151,33 @@ After cleaning, create a system restore point so you can return to this clean st
 
 ---
 
-### Prevention: Your Best Defense
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/Gemini_Generated_Image_nehae4nehae4neha.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## Prevention: Your Best Defense
 
 **The 90% Rule:** 90% of computer infections are preventable with good habits.
 
-#### Safe Computing Habits:
+### Safe Computing Habits:
 
 * **Email Safety:** Never open attachments from strangers. Call the sender to verify if an urgent message is suspicious.
 * **Download Safety:** Only download software from **official websites**. Avoid "Download Now" buttons in pop-up ads.
 * **Browser Safety:** Keep your browser updated and use an **ad blocker** to reduce exposure to malicious ads.
 * **General Safety:** Keep Windows updated and use caution with USB drives from other people.
 
-#### Setting Up Automatic Protection:
+### Setting Up Automatic Protection:
 
 * **Windows Updates:** Set Windows to install updates automatically (and don't postpone security updates).
 * **Antivirus Updates:** Make sure your antivirus updates automatically and schedule weekly full scans.
 
 ---
 
-### When to Call a Professional
+<p align="center">
+  <img src="/Images/Chapter 6 - Antivirus and Security Software/When to stop and call.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## When to Call a Professional
 
 *Based on our professional service experience*
 
@@ -156,7 +188,7 @@ You should call for help when:
 * **You're Not Comfortable:** Following the removal steps seems too complicated, or you're worried about damaging important data.
 * **Critical Business Systems:** Your livelihood or regulatory compliance depends on the computer.
 
-#### Questions to Ask a Computer Repair Service:
+### Questions to Ask a Computer Repair Service:
 
 * "Do you **guarantee** your virus removal work?"
 * "Will you **back up my data** before starting?"
@@ -164,7 +196,7 @@ You should call for help when:
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -172,11 +204,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Infection Protocol:** Disconnect from the internet and reboot into Safe Mode for removal.
 * **Good habits are your best protection.** Most infections are preventable.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 7**, we'll cover **What to Do If You're Infected**—the essential knowledge you need to follow the exact step-by-step procedures we use to eliminate malware.
 
