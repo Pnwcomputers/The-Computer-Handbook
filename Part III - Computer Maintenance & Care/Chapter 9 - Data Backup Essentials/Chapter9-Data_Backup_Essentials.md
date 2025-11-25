@@ -221,6 +221,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 10**, we'll cover **Basic Troubleshooting**—the essential knowledge you need to solve 80% of common computer problems before calling for help.
+In [Chapter 10](../Chapter%2010%20-%20Basic%20Troubleshooting/Chapter10-Basic_Troubleshooting.md), we'll cover **Basic Troubleshooting**—the essential knowledge you need to solve 80% of common computer problems before calling for help.
 
 **Remember:** Having good backups makes troubleshooting much safer, because you know your data is protected while you work on fixing problems.
