@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Keeping Your Computer Fast and Secure**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * Professional software installation using bulk deployment tools
 * Systematic bloatware identification and removal procedures
@@ -18,11 +18,15 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 18 - Software Management/software chaos.png" width="400" height="400" alt="Software Chaos">
+</p>
+
 ## The Reality of Software Chaos
 
 *Professional Insight: "Bad software management is like compound interest in reverse... Good software management prevents 90% of computer problems we're called to fix."*
 
-#### Understanding Professional Software Categories
+### Understanding Professional Software Categories
 
 | Tier | Category | Purpose | Avoid/Caution |
 | :--- | :--- | :--- | :--- |
@@ -32,9 +36,13 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Installing and Uninstalling Programs Safely
+<p align="center">
+  <img src="/Images/Chapter 18 - Software Management/software removal.png" width="400" height="400" alt="Software Removal">
+</p>
 
-#### The Professional Software Installation Process:
+## Installing and Uninstalling Programs Safely
+
+### The Professional Software Installation Process:
 
 *Professional Reality: 80% of computer problems we troubleshoot trace back to poor software installation practices.*
 
@@ -51,16 +59,20 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
     * **Choose "Custom" installation** to control what gets installed.
 * **Common Installation Red Flags (Always Decline):** "Install [Browser] Toolbar," "Make [SearchEngine] your default search," "Install [Optimizer] to speed up your PC."
 
-#### Professional Software Removal (Uninstallation):
+### Professional Software Removal (Uninstallation):
 
 1.  **Standard Uninstallation:** Use **Settings → Apps → Apps & features** (Windows 10/11).
 2.  **Advanced Cleanup:** Use professional tools like **ADWCleaner** (removes adware/toolbars) or **Revo Uninstaller** (for stubborn programs that won't remove cleanly) to eliminate remnants.
 
 ---
 
-### Avoiding Bloatware: Professional Detection and Removal
+<p align="center">
+  <img src="/Images/Chapter 3 - Setting Up a New Computer/bloatware removal.png" width="460" height="460" alt="Bloatware Removal">
+</p>
 
-#### Professional Bloatware Identification Process:
+## Avoiding Bloatware: Professional Detection and Removal
+
+### Professional Bloatware Identification Process:
 
 * **Obvious Junk (Remove Immediately):** "Free Trial" software that nags constantly, browser toolbars, and "PC optimization" tools.
 * **Manufacturer Bloatware (Usually Safe to Remove):** Preinstalled games, manufacturer support assistants, and preinstalled trial versions of expensive software.
@@ -69,9 +81,13 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Software Updates and Security: Professional Management
+<p align="center">
+  <img src="/Images/Chapter 18 - Software Management/software updates.png" width="400" height="400" alt="Software Updates">
+</p>
 
-#### Understanding Professional Update Categories:
+## Software Updates and Security: Professional Management
+
+### Understanding Professional Update Categories:
 
 * **Critical Updates (Install Immediately):** OS security patches, browser security updates, and security software definitions.
 * **Important Updates (Install Within Week):** Productivity software updates with security fixes (Office, Adobe).
@@ -85,7 +101,11 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Free vs Paid Software: Professional Selection Criteria
+<p align="center">
+  <img src="/Images/Chapter 18 - Software Management/free vs paid.png" width="400" height="400" alt="Free vs Paid Programs">
+</p>
+
+## Free vs Paid Software: Professional Selection Criteria
 
 | Software Type | Professional Free Recommendation | When Paid is Justified |
 | :--- | :--- | :--- |
@@ -96,7 +116,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -104,11 +124,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Updates:** **Security updates must be installed immediately.** Use automated tools to reduce vulnerability windows.
 * **Free vs. Paid:** Free software is adequate for **80% of users**. Pay only when required for business or advanced needs.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In [Chapter 19](../Chapter%2019%20-%20Performance%20Optimization/Chapter19-PerformanceOptimization.md), we'll cover **Performance Optimization**—the essential knowledge you need to systematically manage system resources for lasting speed.
 
