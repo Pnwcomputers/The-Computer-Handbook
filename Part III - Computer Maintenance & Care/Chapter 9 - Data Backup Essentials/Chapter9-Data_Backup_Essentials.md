@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Protecting Your Critical Data**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * Why backup is critical (real stories from 20+ years of service)
 * The **3-2-1 backup rule** that professionals use
@@ -18,13 +18,17 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 8 - Keeping Your Computer Healthy/data loss costs.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
 ## The Harsh Reality: Why Backup is Non-Negotiable
 
 *Based on thousands of service calls*
 
 In 20+ years of computer repair, I've seen grown adults cry over lost photos, business owners lose months of work, and families lose irreplaceable memories. The pattern is always the same: *They didn't back up.*
 
-#### The Hard Truth About Data Loss
+### The Hard Truth About Data Loss
 
 | Common Causes of Data Loss | Professional Data Recovery Reality |
 | :--- | :--- |
@@ -33,9 +37,13 @@ In 20+ years of computer repair, I've seen grown adults cry over lost photos, bu
 | **Accidental deletion** (15% of cases) | Time: **1–4 weeks** for professional recovery |
 | **Theft/loss** (5% of cases) | Guarantee: **None** |
 
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/backup roi.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
 **The Bottom Line:** A $5/month backup service could have prevented nearly all these disasters.
 
-#### Understanding Backup: Backup vs. Sync
+### Understanding Backup: Backup vs. Sync
 
 | Concept | What It Does | Why It Matters |
 | :--- | :--- | :--- |
@@ -44,7 +52,11 @@ In 20+ years of computer repair, I've seen grown adults cry over lost photos, bu
 
 **You need backup, not just sync.**
 
-### The Professional 3-2-1 Backup Rule
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/321 backup.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+## The Professional 3-2-1 Backup Rule
 
 This rule ensures no single disaster can wipe out all your data.
 
@@ -54,7 +66,11 @@ This rule ensures no single disaster can wipe out all your data.
 
 *Real-world example:* Copy 1 (Computer), Copy 2 (External Hard Drive), Copy 3 (Cloud Service).
 
-#### What to Back Up: The Professional Approach
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+### What to Back Up: The Professional Approach
 
 * **Critical Data (Back Up Immediately):** Family photos, personal documents (tax records, etc.), business-critical files (invoices, customer lists).
 * **Important But Replaceable:** Browser bookmarks, software preferences.
@@ -62,9 +78,19 @@ This rule ensures no single disaster can wipe out all your data.
 
 ---
 
-### Local Backup: Windows Built-In Solutions
+# Local vs Cloude Backups
 
-#### Method 1: File History (Recommended for Beginners)
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/local vs cloud backup.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+## Local Backup: Windows Built-In Solutions
+
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/file history.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+### Method 1: File History (Recommended for Beginners)
 
 * **What it does:** Automatically backs up files in your personal folders (`Documents`, `Pictures`, `Videos`, etc.) to an external drive.
 * **What you need:** An **External hard drive** or USB drive (at least 500GB).
@@ -82,14 +108,14 @@ This rule ensures no single disaster can wipe out all your data.
 
 ---
 
-### Cloud Backup: Professional Recommendations
+## Cloud Backup: Professional Recommendations
 
-#### Understanding Cloud Backup vs. Cloud Sync
+### Understanding Cloud Backup vs. Cloud Sync
 
 * **Cloud Sync (OneDrive, Dropbox):** Use for file sharing and accessibility. Not disaster recovery.
 * **Cloud Backup (Backblaze, IDrive):** Use for disaster recovery and long-term protection. **Keeps files even after local deletion.**
 
-#### Professional Cloud Backup Services
+### Professional Cloud Backup Services
 
 | Service | Why We Recommend It | Best For |
 | :--- | :--- | :--- |
@@ -99,13 +125,21 @@ This rule ensures no single disaster can wipe out all your data.
 
 **General Setup Process:** Choose service → Install client software → Configure folders to include (Documents, Pictures, Desktop) → Allow initial backup (may take days/weeks) → Monitor status.
 
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/piece of mind.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
 ---
 
-### Ransomware Protection: The Modern Threat
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/ransom ware protectino.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+## Ransomware Protection: The Modern Threat
 
 Ransomware is malware that **encrypts (locks) your files** and demands payment. It's the **\#1 data loss threat.**
 
-#### Professional Ransomware Defense Strategy
+### Professional Ransomware Defense Strategy
 
 * **Layer 1: Prevention:** Keep antivirus updated, **don't click suspicious email attachments**, and use standard user accounts.
 * **Layer 2: Detection:** Monitor for files being renamed with odd extensions or sudden, excessive hard drive activity.
@@ -115,7 +149,11 @@ Ransomware is malware that **encrypts (locks) your files** and demands payment. 
 
 ---
 
-### Creating Your Personal Backup Strategy
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
+## Creating Your Personal Backup Strategy
 
 *Your strategy depends on your data risk and budget.*
 
@@ -125,7 +163,7 @@ Ransomware is malware that **encrypts (locks) your files** and demands payment. 
 | **Family Digital Life** | **Backblaze** unlimited backup ($60/year). | Windows File History to 2TB external drive. |
 | **Small Business** | **IDrive** business backup. | Weekly system image backups to external drive. |
 
-### Setting Up Your Backup System: Step-by-Step
+## Setting Up Your Backup System: Step-by-Step
 
 **Phase 1: Emergency Protection (Do This Today - 30 Minutes)**
 
@@ -149,23 +187,27 @@ Ransomware is malware that **encrypts (locks) your files** and demands payment. 
 * **Monthly Tasks:** Check backup status (local and cloud) and verify recent files are being backed up.
 * **Quarterly Tasks:** **Test the restore process** with actual, non-critical files.
 
+<p align="center">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/backup test schedule.png" width="400" height="400" alt="Different types of Modern CPU's">
+</p>
+
 ---
 
-### Restoration: Getting Your Files Back
+## Restoration: Getting Your Files Back
 
-#### Step-by-Step File Recovery
+### Step-by-Step File Recovery
 
 * **Recovering from File History:** Open File Explorer, navigate to the folder where the file used to be, click **"History"** in the ribbon, select the version you want, and click **"Restore."**
 * **Recovering from Cloud Backup (Backblaze):** Log in online, select the files, and choose the download method (direct download or USB drive shipment for large recoveries).
 
-#### Professional Backup Maintenance
+### Professional Backup Maintenance
 
 * **Monitoring:** Set up backup software notifications and check the status of your local and cloud backups weekly.
 * **Troubleshooting:** If backup keeps failing, check the error logs and available storage space. **Call professional service for repeated failures with critical data.**
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -173,11 +215,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **The 3-2-1 Rule:** Keep 3 copies, on 2 types of media, with 1 copy offsite (cloud).
 * **Ransomware Defense:** Use an external drive that you **disconnect after backup** to protect against encryption.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 10**, we'll cover **Basic Troubleshooting**—the essential knowledge you need to solve 80% of common computer problems before calling for help.
 
