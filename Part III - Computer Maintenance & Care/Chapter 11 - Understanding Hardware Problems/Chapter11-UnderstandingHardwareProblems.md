@@ -111,7 +111,7 @@ Before starting any hardware diagnosis, **confirm it’s actually hardware**.
 | **Laptop** | Power adapter, Battery, RAM upgrade (if accessible). | **Motherboard replacement** (usually exceeds laptop value), **Liquid damage**, physical chassis damage. |
 
 <p align="center">
-  <img src="/Images/Chapter 11 - Understanding Hardware Problems/50% rule.png" width="400" height="400" alt="50% Rule">
+  <img src="/Images/Chapter 11 - Understanding Hardware Problems/50 rule.png" width="400" height="400" alt="50% Rule">
 </p>
 
 ## When to Call a Professional
