@@ -19,7 +19,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 8 - Keeping Your Computer Healthy/data loss costs.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 8 - Keeping Your Computer Healthy/data loss costs.png" width="400" height="400" alt="Data Loss Costs">
 </p>
 
 ## The Harsh Reality: Why Backup is Non-Negotiable
@@ -38,7 +38,7 @@ In 20+ years of computer repair, I've seen grown adults cry over lost photos, bu
 | **Theft/loss** (5% of cases) | Guarantee: **None** |
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/backup roi.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/backup roi.png" width="400" height="400" alt="ROI on Backing Up Data">
 </p>
 
 **The Bottom Line:** A $5/month backup service could have prevented nearly all these disasters.
@@ -53,7 +53,7 @@ In 20+ years of computer repair, I've seen grown adults cry over lost photos, bu
 **You need backup, not just sync.**
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/321 backup.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/321 backup.png" width="400" height="400" alt="321 Backup Rule">
 </p>
 
 ## The Professional 3-2-1 Backup Rule
@@ -67,7 +67,7 @@ This rule ensures no single disaster can wipe out all your data.
 *Real-world example:* Copy 1 (Computer), Copy 2 (External Hard Drive), Copy 3 (Cloud Service).
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Backup Strategy">
 </p>
 
 ### What to Back Up: The Professional Approach
@@ -81,13 +81,13 @@ This rule ensures no single disaster can wipe out all your data.
 # Local vs Cloude Backups
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/local vs cloud backup.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/local vs cloud backup.png" width="400" height="400" alt="Local vs Cloud Backups">
 </p>
 
 ## Local Backup: Windows Built-In Solutions
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/file history.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/file history.png" width="400" height="400" alt="File History">
 </p>
 
 ### Method 1: File History (Recommended for Beginners)
@@ -126,13 +126,13 @@ This rule ensures no single disaster can wipe out all your data.
 **General Setup Process:** Choose service → Install client software → Configure folders to include (Documents, Pictures, Desktop) → Allow initial backup (may take days/weeks) → Monitor status.
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/piece of mind.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/piece of mind.png" width="400" height="400" alt="Piece of Mind">
 </p>
 
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/ransom ware protectino.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/ransom ware protectino.png" width="400" height="400" alt="Ransomeware Protection">
 </p>
 
 ## Ransomware Protection: The Modern Threat
@@ -150,7 +150,7 @@ Ransomware is malware that **encrypts (locks) your files** and demands payment. 
 ---
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/data backup strategy.png" width="400" height="400" alt="Backup Strategy">
 </p>
 
 ## Creating Your Personal Backup Strategy
@@ -188,7 +188,7 @@ Ransomware is malware that **encrypts (locks) your files** and demands payment. 
 * **Quarterly Tasks:** **Test the restore process** with actual, non-critical files.
 
 <p align="center">
-  <img src="/Images/Chapter 9 - Data Backup Essentials/backup test schedule.png" width="400" height="400" alt="Different types of Modern CPU's">
+  <img src="/Images/Chapter 9 - Data Backup Essentials/backup test schedule.png" width="400" height="400" alt="Test Schedule">
 </p>
 
 ---
