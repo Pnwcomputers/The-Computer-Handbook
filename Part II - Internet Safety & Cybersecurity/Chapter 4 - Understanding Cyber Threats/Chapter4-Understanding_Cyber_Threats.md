@@ -254,6 +254,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 5**, we'll cover **Protecting Yourself Online**—the essential knowledge you need to implement the professional strategies we use for every client.
+In [Chapter 5](Part%20II%20-%20Internet%20Safety%20%26%20Cybersecurity/Chapter%205%20-%20Protecting%20Yourself%20Online/Chapter5-Protecting_Yourself_Online.md), we'll cover **Protecting Yourself Online**—the essential knowledge you need to implement the professional strategies we use for every client.
 
 **Remember:** Users who understand threats and practice good habits have 90% fewer infections than those who rely purely on antivirus software. Knowledge is the best defense.
