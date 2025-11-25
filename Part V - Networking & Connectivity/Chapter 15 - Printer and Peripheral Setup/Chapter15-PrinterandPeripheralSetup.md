@@ -34,6 +34,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/printer setup flow chart.png" width="400" height="400" alt="Repair vs Replace">
+</p>
+
 ### Professional WiFi Printer Setup
 
 #### Method 1: Printer Control Panel Setup (Most Reliable)
@@ -55,9 +59,17 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Windows Setup:** **Always download the manufacturer software from the official website.** Select "Wireless Setup" and follow the on-screen instructions.
 * **Mac Setup (AirPrint):** Ensure the printer is connected to WiFi. Go to **System Preferences > Printers & Scanners** and click the **"+"** button. AirPrint-compatible printers should appear automatically.
 
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/drive installation.png" width="400" height="400" alt="Troubleshooting">
+</p>
+
 ---
 
 ### Network Printer Setup: Professional Methods
+
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/printer static ip.png" width="400" height="400" alt="Static IP">
+</p>
 
 #### Static IP Configuration
 
@@ -73,7 +85,16 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **AirPrint (Apple):** Built into iOS/macOS. No additional software required. Printer and device **must be on the same WiFi network.**
 * **Manufacturer Apps:** (HP Smart, Canon PRINT, etc.) Required for **full functionality** like scanning, advanced settings, and sometimes the printing itself. Download the official app and follow its setup.
 
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/mobile printing.png" width="400" height="400" alt="Mobile Printing">
+</p>
+
+
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/perihperal troubleshooting.png" width="400" height="400" alt="Troubleshooting">
+</p>
 
 ### Professional Printer Troubleshooting
 
@@ -85,12 +106,20 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
   ```powershell
   ping [printer-ip-address]
 
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/connectivity check.png" width="400" height="400" alt="Connectivity Check">
+</p>
+
 If ping fails, the printer is not talking to the network.
 
 #### Phase 2: Driver and Software Checks
 
 * **Driver Reinstallation:** Uninstall the old driver completely before installing the new one. Always get drivers from the manufacturer's website.
 * **Essential Scanning Software:** Install the **full manufacturer software** for scanning functionality, as Windows built-in tools often don't work.
+
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/scanning software needed.png" width="400" height="400" alt="Scanning">
+</p>
 
 #### Phase 3: Spooler Service Reset
 
@@ -104,6 +133,11 @@ If ping fails, the printer is not talking to the network.
 * **Persistent Network Failures:** Printer refuses to connect to WiFi after multiple manual attempts.
 * **Hardware Issues:** Paper jams that cannot be cleared manually, error lights that persist after power cycling, or poor print quality after changing cartridges.
 * **Business Environments:** When the issue impacts multiple users or critical business documents.
+* **Repair or Replace:** If the cost of service exceeds the cost of replacing the device, replacement is recommended.
+
+<p align="center">
+  <img src="/Images/Chapter 15 - Printer and Peripheral Setup/repair vs replace.png" width="400" height="400" alt="Repair vs Replace">
+</p>
 
 ***
 
