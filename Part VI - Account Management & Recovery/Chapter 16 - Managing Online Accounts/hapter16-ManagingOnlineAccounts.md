@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Preventing Account Lockouts and Ensuring Recovery**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * Professional account creation and security setup
 * Password management that actually works (based on real recovery cases)
@@ -22,22 +22,30 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Professional Insight: "Account lockouts don't happen because people are careless - they happen because nobody teaches you how to set up accounts properly."*
 
-#### Understanding Account Security: What Actually Matters
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/three layered security.png" width="400" height="400" alt="When To Seek Help">
+</p>
+
+### Understanding Account Security: What Actually Matters
 
 | Layer | Purpose | Professional Reality |
 | :--- | :--- | :--- |
-| **Layer 1: Primary Access** (Username/Password) | Daily login credentials. | This will fail eventually - plan for it. |
-| **Layer 2: Recovery Options** (Backup email, phone) | Get back in when Layer 1 fails. | This is where **90% of lockouts occur**; options must be current and accessible. |
-| **Layer 3: Two-Factor Authentication** | Prevent unauthorized access. | Essential security; requires **proper backup** (recovery codes) to prevent self-lockout. |
-| **Layer 4: Account Documentation** (Password managers) | Professional-level access management. | **Prevents 95% of account lockout scenarios.** |
+| **Primary Access** (Username/Password) | Daily login credentials. | This will fail eventually - plan for it. |
+| **Layer 3: Recovery Options** (Backup email, phone) | Get back in when Layer 1 fails. | This is where **90% of lockouts occur**; options must be current and accessible. |
+| **Layer 2: Two-Factor Authentication** | Prevent unauthorized access. | Essential security; requires **proper backup** (recovery codes) to prevent self-lockout. |
+| **Layer 1: STRONG Passsword & Account Documentation** (Password managers) | Professional-level access management. | **Prevents 95% of account lockout scenarios.** |
 
 *What We Cannot Do:* We cannot bypass account security, override company policies, or guarantee recovery success if proper backup methods weren't set up.
 
 ---
 
-### Creating Secure Accounts: Professional Setup Process
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/monthyl account checklist.png" width="400" height="400" alt="When To Seek Help">
+</p>
 
-#### The Professional Account Creation Checklist:
+## Creating Secure Accounts: Professional Setup Process
+
+### The Professional Account Creation Checklist:
 
 * **Primary Email:** The main email for this account.
 * **Recovery Email:** **CRITICAL!** Must be different from the primary one (different provider preferred).
@@ -45,13 +53,17 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Security Questions:** Answers written down and stored securely.
 * **Password:** Generated uniquely by a **password manager.**
 
-#### Professional Account Setup Sequence:
+### Professional Account Setup Sequence:
 
 1.  **Email Account Setup (Foundation):** Create primary email. Set up recovery email and phone number. **Enable 2FA with backup codes saved.**
 2.  **Password Manager Setup (Critical Infrastructure):** Choose a manager (Bitwarden, 1Password). Create a **strong master password** (written down and stored securely).
 3.  **New Account Creation:** **Generate a unique password** using the manager. Use the consistent **secure recovery email**. **Save everything immediately** in the password manager.
 
-### Password Managers: Professional Recommendations
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/password manager fortress.png" width="400" height="400" alt="When To Seek Help">
+</p>
+
+## Password Managers: Professional Recommendations
 
 *Professional Reality: We've never seen a successful account recovery case where the customer was using a password manager properly.*
 
@@ -64,15 +76,19 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Two-Factor Authentication: Professional Setup
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/2fa saftey backup checklist.png" width="400" height="400" alt="When To Seek Help">
+</p>
 
-#### Professional 2FA Methods (Ranked by Security):
+## Two-Factor Authentication: Professional Setup
+
+### Professional 2FA Methods (Ranked by Security):
 
 1.  **Hardware Tokens** (YubiKey) - Highest security (for critical accounts).
 2.  **Authenticator Apps** (Google Authenticator, Authy) - High security, primary method for most users.
 3.  **SMS Text Messages** - Medium security (use as backup only).
 
-#### Professional 2FA Backup Strategies:
+### Professional 2FA Backup Strategies:
 
 * **Primary Method:** Authenticator app on your phone.
 * **Essential Backup:** **Save all generated backup codes immediately** in your password manager and print a copy to store securely offline.
@@ -80,7 +96,11 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Account Recovery Options: Professional Planning
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/account recovery.png" width="400" height="400" alt="When To Seek Help">
+</p>
+
+## Account Recovery Options: Professional Planning
 
 **The Professional Account Recovery Hierarchy:**
 
@@ -88,7 +108,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Tier 2: Standard Recovery:** Accessible recovery email or current phone number, official company password reset processes.
 * **Tier 3: Advanced Recovery:** Customer support with **government ID** or **proof of purchase/business documentation**.
 
-#### Setting Up Professional-Grade Recovery Options:
+### Setting Up Professional-Grade Recovery Options:
 
 * **Recovery Email Setup:** Must be on a **different provider** and kept active.
 * **Phone Number Management:** Use a **consistent, current phone number** across all accounts. **Update it immediately** when changing carriers or numbers.
@@ -96,7 +116,11 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### When to Get Professional Help vs. DIY
+<p align="center">
+  <img src="/Images/Chapter 16 - Managing Online Accounts/seek professional help.png" width="400" height="400" alt="When To Seek Help">
+</p>
+
+## When to Get Professional Help vs. DIY
 
 | DIY Account Recovery When: | Get Professional Help When: |
 | :--- | :--- |
@@ -109,7 +133,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -117,11 +141,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Two-Factor Strategy:** Use **Authenticator apps** as primary 2FA and **save backup codes** immediately.
 * **Account Recovery:** Recovery success depends on a **current recovery email** on a different provider and an **up-to-date phone number.**
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In [Chapter 17](../Chapter%2017%20-%20When%20Things%20Go%20Wrong/Chapter17-WhenThingsGoWrong.md), we'll cover **When Things Go Wrong**—the essential knowledge you need for emergency response and professional security incident management.
 
