@@ -121,6 +121,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 16**, we'll cover **Managing Online Accounts**—the essential knowledge you need to set up your digital life to prevent lockouts and ensure easy recovery.
+In [Chapter 16](../../Part%20VI%20-%20Account%20Management%20%26%20Recovery/Chapter%2016%20-%20Managing%20Online%20Accounts/hapter16-ManagingOnlineAccounts.md), we'll cover **Managing Online Accounts**—the essential knowledge you need to set up your digital life to prevent lockouts and ensure easy recovery.
 
 **Remember:** Most printer problems are network problems, and most scanning problems are software problems. Address the correct component.
