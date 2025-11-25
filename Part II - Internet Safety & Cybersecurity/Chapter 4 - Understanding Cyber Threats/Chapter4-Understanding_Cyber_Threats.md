@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Digital Diseases We Fight Every Day**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * What malware really is and why it targets YOU
 * The specific threats we remove most often (with real case studies)
@@ -21,7 +21,11 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *From Our Front-Line Experience*
 
-#### The Numbers Don't Lie:
+### The Numbers Don't Lie:
+
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/cybercrime cost breakdown.png" width="500" height="500" alt="Cybercrime Cost Breakdown">
+</p>
 
 * **40%** of our service calls: Malware-related problems
 * **Average cleanup cost:** $150–$300 per incident
@@ -30,6 +34,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Reinfection rate:** 90% for users who don't change their habits
 
 *Real Client Story - The Small Business Devastation:* A local accounting firm called us in panic during tax season. Their main computer was locked with **ransomware** demanding $2,500. Three months of client files, tax returns, and business records were encrypted.
+
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/cybercrime cost infographic.png" width="500" height="500" alt="Cybercrime Cost Infographic">
+</p>
 
 | The Damage | The Cost |
 | :--- | :--- |
@@ -41,9 +49,13 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *The Prevention Cost:* A $60/year cloud backup service would have prevented all of this.
 
-#### What is Malware? The Professional Definition
+### What is Malware? The Professional Definition
 
 **Malicious Software:** Digital Weapons Targeting Your Life.
+
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/malware goals.png" width="500" height="500" alt="Malware Goals">
+</p>
 
 Malware isn't just "computer viruses." It's an entire ecosystem of digital weapons designed to:
 
@@ -55,7 +67,11 @@ Malware isn't just "computer viruses." It's an entire ecosystem of digital weapo
 
 *Professional Insight:* Modern malware is created by criminal organizations with sophisticated development teams, not basement hackers. They invest millions in making their malware undetectable and highly profitable.
 
-#### The Economics of Cybercrime
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/cybercrime value chain.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
+
+### The Economics of Cybercrime
 
 **Why You're Worth Attacking:**
 
@@ -70,38 +86,42 @@ Malware isn't just "computer viruses." It's an entire ecosystem of digital weapo
 
 ---
 
-### Types of Threats: What We Actually See
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/malware types.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
+
+## Types of Threats: What We Actually See
 
 *Real Cases from Our Malware Removal Experience*
 
-#### Traditional Viruses: The Classic Threat
+### Traditional Viruses: The Classic Threat
 
 * **What They Are:** Self-replicating programs that spread to other files and computers.
 * **Modern Characteristics:** Often disguise themselves as legitimate system files, can prevent Windows from starting, and may damage hardware by causing overheating.
 * *Prevention Lesson:* Any external media (like a friend's USB drive) can be dangerous.
 
-#### Adware: The Annoying Money-Maker
+### Adware: The Annoying Money-Maker
 
 * **What It Is:** Software that displays unwanted advertisements and changes browser behavior.
 * **Common Symptoms:** Pop-up ads, browser homepage changed to fake search engine, new toolbars installed, fake "virus alert" pop-ups.
 * *Lesson:* "Free" software often costs more than legitimate alternatives.
 
-#### Spyware: The Silent Thief
+### Spyware: The Silent Thief
 
 * **What It Does:** Secretly monitors your activities and steals personal information.
 * **The Danger:** Designed to hide until it can steal maximum amounts (passwords, screenshots of banking sessions, etc.). By the time you notice unusual activity, the damage is often done.
 
-#### Browser Hijackers: The Redirect Nightmare
+### Browser Hijackers: The Redirect Nightmare
 
 * **What They Do:** Take control of your web browser, redirecting searches and displaying fake sites (like fake banking login pages).
 * **Hidden Dangers:** Credential theft and financial site spoofing that collects your login information.
 
-#### Rootkits: The Deep Hide
+### Rootkits: The Deep Hide
 
 * **What They Are:** Malware that embeds deep in the operating system, hiding from normal detection and blocking your antivirus software.
 * **Why It’s Hard:** They actively fight removal attempts, requiring specialized, often manual, removal tools and offline scanning.
 
-#### Potentially Unwanted Programs (PUPs): The Gray Area
+### Potentially Unwanted Programs (PUPs): The Gray Area
 
 * **What They Are:** Programs that aren't technically malware but significantly degrade your computer experience.
 * **Professional "Must Remove" List:** Registry cleaners (e.g., PC Cleaner Pro), driver updaters (e.g., DriverDoc), and system optimizers (e.g., Advanced SystemCare).
@@ -109,37 +129,53 @@ Malware isn't just "computer viruses." It's an entire ecosystem of digital weapo
 
 ---
 
-### How Infections Happen: Real-World Attack Vectors
+## How Infections Happen: Real-World Attack Vectors
 
 *Based on Thousands of Infection Analyses*
 
-#### Software Bundling: The #1 Infection Source (85% of Removals)
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/sofware bundling.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
+
+### Software Bundling: The #1 Infection Source (85% of Removals)
 
 * **How It Works:** The user downloads an installer for legitimate software (like a PDF reader) from a malicious or unauthorized site. The default "Express" installation installs multiple hidden malware threats simultaneously.
 * **Professional Prevention:** Always download software from **official websites only.**
 
-#### Email Attachments: The Trust Exploit
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/email attacments.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
+
+### Email Attachments: The Trust Exploit
 
 * **What Criminals Send:** Fake invoices, shipping notices, or legal documents with urgent language.
 * **The Trap:** Files that look like PDFs but are actually programs (e.g., `Invoice_4471.pdf.exe`—the real extension is `.exe`).
 * **Professional Red Flags:** Unexpected attachments from unknown senders, urgent language, generic greetings ("Dear Customer"), and suspicious file extensions.
 
-#### Fake Security Warnings: The Fear Tactic
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/fake vs scam tech support.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
+
+### Fake Security Warnings: The Fear Tactic
 
 * **The Setup:** A pop-up warning claims your computer is infected and demands you call a 1-800 number or click a button to "fix" it.
 * **Criminal Actions:** You call, give them remote access, they install *actual* malware to "prove" the infection, and demand payment, stealing your credit card information in the process.
 * *Professional Note:* Microsoft, Apple, Google, and legitimate companies **NEVER** contact you via pop-up warnings or unsolicited phone calls.
 
-#### Social Engineering: The Human Hack
+### Social Engineering: The Human Hack
 
 * **What It Is:** Manipulating people into installing malware voluntarily by exploiting curiosity or fear.
 * **Common Tactics:** Fake software updates ("Your Java is out of date"), free offers ("Free antivirus scan revealed threats"), or authority impersonation ("IT department requires you to install this update").
 
 ---
 
-### Warning Signs of Infection
+## Warning Signs of Infection
 
-#### Immediate Action Required Signs
+### Immediate Action Required Signs
+
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/stop immediatly.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
 
 If you see these, **stop using your computer immediately and disconnect from the internet:**
 
@@ -151,7 +187,7 @@ If you see these, **stop using your computer immediately and disconnect from the
 
 *Emergency Protocol:* Disconnect from the internet (unplug ethernet or disable WiFi), **do not enter any passwords**, and call for professional help immediately.
 
-#### Performance Warning Signs
+### Performance Warning Signs
 
 * Dramatically slower performance (especially startup).
 * High CPU usage when the computer should be idle.
@@ -159,7 +195,7 @@ If you see these, **stop using your computer immediately and disconnect from the
 * Internet slower than normal (bandwidth being used by malware).
 * Programs frequently crashing or behaving erratically.
 
-#### Browser Warning Signs
+### Browser Warning Signs
 
 * Homepage changed without your permission.
 * Search results redirected to unfamiliar sites.
@@ -169,7 +205,7 @@ If you see these, **stop using your computer immediately and disconnect from the
 
 ---
 
-### The Evolution of Threats: What's Coming Next
+## The Evolution of Threats: What's Coming Next
 
 *Professional Threat Intelligence*
 
@@ -177,7 +213,11 @@ If you see these, **stop using your computer immediately and disconnect from the
 * **Mobile Device Crossover:** PC threats like banking trojans and ransomware are increasingly targeting mobile banking apps and phone data.
 * **Cloud Service Exploitation:** Malware is now designed to sync infections across devices via services like OneDrive/Google Drive and encrypt files stored in cloud services.
 
-### Professional Defense Strategies
+## Professional Defense Strategies
+
+<p align="center">
+  <img src="/Images/Chapter 4 - Understanding Cyber Threats/layered security.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
 
 **The Layered Security Approach:**
 
@@ -195,7 +235,7 @@ If you see these, **stop using your computer immediately and disconnect from the
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -203,11 +243,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Source Verification:** Download software from official websites only to avoid bundling.
 * **Warning Signs:** If banking sites look different or AV is disabled, disconnect immediately.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 5**, we'll cover **Protecting Yourself Online**—the essential knowledge you need to implement the professional strategies we use for every client.
 
