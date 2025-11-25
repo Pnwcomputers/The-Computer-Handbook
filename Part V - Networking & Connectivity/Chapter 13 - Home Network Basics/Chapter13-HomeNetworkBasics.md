@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Setting Up and Maintaining a Reliable Home Network**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * How to set up a new router like a professional
 * Understanding WiFi networks and how they actually work
@@ -24,7 +24,7 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Professional Perspective: Most networking problems aren't about speed - they're about **Coverage, Compatibility, Configuration, and Interference.***
 
-#### Understanding Your Home Network: The Professional View
+### Understanding Your Home Network: The Professional View
 
 | Component | Function |
 | :--- | :--- |
@@ -35,18 +35,26 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 **Professional Network Topology:** Internet → Modem → Router → Your Devices
 
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/complete home network.png" width="400" height="400" alt="Typical Home Network">
+</p>
+
 ---
 
-### Professional Router Setup: Step-by-Step
+## Professional Router Setup: Step-by-Step
 
-#### Phase 1: Physical Setup
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/router placement.png" width="400" height="400" alt="Router Placement">
+</p> 
+
+### Phase 1: Physical Setup
 
 1.  **Optimal Router Placement:** Choose a **central, elevated location** (not in a basement or closet). Place it **away from interference** (microwaves, baby monitors, metal objects).
 2.  **Physical Connections:** Connect the ethernet cable from the modem to the router's **WAN/Internet port**.
 
 *Professional Tip: If replacing ISP-provided equipment, you may need to call your ISP to register the new router's MAC address.*
 
-#### Phase 2: Initial Configuration
+### Phase 2: Initial Configuration
 
 1.  **Access Router Interface:** Connect your computer to the router's default WiFi or via ethernet. Open a browser and go to the router's IP address (Commonly `192.168.1.1` or `192.168.0.1`). Log in with the default credentials.
 2.  **WiFi Network Setup:**
@@ -55,25 +63,39 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
     * Use **WPA2 or WPA3 security** (never WEP or Open).
 3.  **Essential Security Settings:** Immediately **change the default admin password** for the router's management interface. Check for and **install all available firmware updates**.
 
-#### Phase 3: Professional Optimization
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/router security.png" width="400" height="400" alt="Router Security">
+</p> 
+
+### Phase 3: Professional Optimization
 
 * **WiFi Channel Selection:** For the 2.4GHz band, use channels **1, 6, or 11** (non-overlapping) to reduce interference.
 * **Quality of Service (QoS):** Prioritize essential devices (work computers) over entertainment devices.
 * **Guest Network Setup:** Enable the guest network with a separate password and **isolate guest devices** from the main network.
+* **Band Steering:** Helps to "guide" devices to use a preferred network band or frequency; typically used for better speeds and connectivity for devices.
+
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/band steering.png" width="400" height="400" alt="Router Security">
+</p> 
 
 ---
 
-### Network Migration: Professional Changeover Techniques
+## Network Migration: Professional Changeover Techniques
 
 When replacing a router, you can minimize downtime by configuring the new equipment to match the old network exactly.
 
-#### The Professional Migration Process
+### The Professional Migration Process
 
 1.  **Pre-Migration Documentation:** Record your old router's **IP range** (e.g., `192.168.1.x`), **WiFi SSID** and **password**, and any **static IP assignments** (printers, cameras).
 2.  **Pre-Configuration (Air-Gapped Setup):** Set up the new router **separately** (not connected to the internet yet). Access its interface and configure it to use the **same SSID, same password, and same IP address range** as the old router.
 3.  **Cutover:** Power off the old equipment completely. Install the new, pre-configured equipment in the same location and power it on.
 
 **Devices won't know the hardware changed** and should reconnect automatically.
+
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/wifi password.png" width="400" height="400" alt="IoT Networking">
+</p> 
+
 *Windows WiFi Password Retrieval (Professional Command):*
 - powershell:
 `netsh wlan show profiles`
@@ -81,11 +103,15 @@ When replacing a router, you can minimize downtime by configuring the new equipm
 
 **Look for **"Key Content"** to find the stored password.
 
-### Smart Home and IoT Device Connectivity
+## Smart Home and IoT Device Connectivity
 
 *What worked for laptops and phones doesn't always work for IoT devices.*
 
-#### Professional IoT Setup Strategy
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/iot networking.png" width="400" height="400" alt="IoT Networking">
+</p> 
+
+### Professional IoT Setup Strategy
 
 Many IoT devices prefer 2.4GHz WiFi and older security standards, causing issues with modern routers.
 
@@ -93,19 +119,27 @@ Many IoT devices prefer 2.4GHz WiFi and older security standards, causing issues
 * **Security Settings:** Use **WPA2 security** (not WPA3) for maximum compatibility with older devices.
 * **Troubleshooting Tip:** Disable **client isolation** (prevents device-to-device communication) and ensure **multicast/broadcast traffic** is enabled (required for device discovery).
 
-### Wireless Troubleshooting: Professional Systematic Approach
+## Wireless Troubleshooting: Professional Systematic Approach
 
-#### Problem: WiFi Connected But No Internet
+### Problem: WiFi Connected But No Internet
 
 1.  **Verify Internet at Router (Wired Check):** Connect a computer directly to the router via ethernet. If this works, the problem is your **WiFi configuration**. If it fails, the problem is the **ISP or modem**.
 2.  **Check DNS Settings:** If you can't access websites but are connected, change your DNS servers. Set the computer or router to use a reliable public DNS (e.g., Google: `8.8.8.8`).
 
-#### Problem: Slow WiFi Performance
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/slow wifi.png" width="400" height="400" alt="Typical Home Network">
+</p> 
+
+### Problem: Slow WiFi Performance
 
 1.  **Speed Testing Protocol:** Test wired vs. wireless to find the bottleneck. Test at different locations to identify coverage issues.
 2.  **Solutions:** Change the WiFi channel (use **1, 6, or 11** for 2.4GHz). Move the router to a more **central, elevated location**.
 
-### When to Call a Professional
+<p align="center">
+  <img src="/Images/Chapter 13 - Home Network Basics/wifi signal issues.png" width="400" height="400" alt="Typical Home Network">
+</p> 
+
+## When to Call a Professional
 
 Recognize the limits of DIY networking.
 
@@ -116,7 +150,7 @@ Recognize the limits of DIY networking.
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -124,11 +158,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Configuration:** Always change the default admin password and use **WPA2 or WPA3 security**.
 * **Migration:** Use the **Air-Gapped Setup** method to configure the new router with the old network settings for a smooth transition.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In [Chapter 14](../Chapter%2014%20-%20Internet%20Troubleshooting/Chapter14-InternetTroubleshooting.md), we'll cover **Internet Troubleshooting**—the essential knowledge you need to solve common connectivity issues before blaming your ISP.
 
