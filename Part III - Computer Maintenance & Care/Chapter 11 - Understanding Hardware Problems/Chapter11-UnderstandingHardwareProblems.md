@@ -63,6 +63,9 @@ Before starting any hardware diagnosis, **confirm it’s actually hardware**.
 <p align="center">
   <img src="/Images/Chapter 11 - Understanding Hardware Problems/no power troubleshooting.png" width="400" height="400" alt="No Power Troubleshooting">
 </p>
+<p align="center">
+  <img src="/Images/Chapter 11 - Understanding Hardware Problems/cable check.png" width="400" height="400" alt="No Power Troubleshooting">
+</p>
 
 ### Phase 2: Power System Testing (Safe DIY)
 
