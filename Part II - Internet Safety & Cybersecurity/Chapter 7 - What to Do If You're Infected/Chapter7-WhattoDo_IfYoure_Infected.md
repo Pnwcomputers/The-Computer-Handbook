@@ -7,7 +7,7 @@
 
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **The Professional Malware Removal Procedures**.
 
-### What You'll Learn in This Chapter:
+## What You'll Learn in This Chapter:
 
 * Professional infection recognition that catches problems early
 * Step-by-step removal process used in thousands of successful cleanings
@@ -16,6 +16,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * Emergency response protocols for different threat levels
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/infection timeline.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
 
 ## The Reality: Time is Critical When You're Infected
 
@@ -29,11 +33,19 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Lesson: Quick professional response prevented financial disaster in a banking malware case. The speed and quality of the initial response determine the final cost and data safety.*
 
-### Recognizing the Signs: Professional Assessment Checklist
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/sings of a virus.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## Recognizing the Signs: Professional Assessment Checklist
 
 *Early Detection Saves Everything. 80% of serious infections have warning signs 2–6 hours before major damage occurs.*
 
-#### Immediate Action Required Signs
+### Immediate Action Required Signs
+
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/emergency recognition.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
 
 **STOP USING COMPUTER AND CALL FOR HELP:**
 
@@ -42,14 +54,18 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Professional Protocol: If ANY of these signs appear, disconnect from the internet immediately and seek professional help within 2 hours.*
 
-#### Performance Warning Signs
+### Performance Warning Signs
 
 *Indicates Possible Infection - Begin Assessment:*
 
 * **System Behavior Changes:** Computer significantly slower than normal, frequent freezing/crashing, or hard drive constantly active when idle.
 * **Browser Abnormalities:** Homepage changed without permission, new toolbars/extensions you didn't install, or search results redirected to advertising sites.
 
-#### Professional Assessment Process (5 Minutes)
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/threat assessment.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+### Professional Assessment Process (5 Minutes)
 
 1.  **Task Manager Analysis (Ctrl + Shift + Esc):** Sort by **CPU usage**. Look for unknown programs using high CPU or running from suspicious locations (like a `Temp` folder).
 2.  **Startup Program Review (Task Manager → Startup):** Look for unknown programs set to start automatically or entries with no manufacturer listed.
@@ -59,15 +75,27 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Step-by-Step Removal Process: Professional Protocol
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/step by step.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
 
-#### Phase 1: Immediate Containment (First 15 Minutes)
+## Step-by-Step Removal Process: Professional Protocol
+
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/immediate containment stepo.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+### Phase 1: Immediate Containment (First 15 Minutes)
 
 1.  **Isolation Protocol:** **Disconnect from the internet** (unplug ethernet/disable WiFi). Close all running programs.
 2.  **Emergency Backup:** If possible, copy critical files to an external drive.
 3.  **Boot Assessment:** Restart the computer. Try booting into **Safe Mode** (often required for malware removal).
 
-#### Phase 2: Professional Malware Removal (1–4 Hours)
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/core removal flow chart.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+### Phase 2: Professional Malware Removal (1–4 Hours)
 
 *The exact order matters. Run these tools sequentially:*
 
@@ -76,25 +104,33 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 3.  **Tool 3: ADWCleaner:** Downloads from malwarebytes.com/adwcleaner. **Purpose:** Removes adware, toolbars, and browser hijackers.
 4.  **Tool 4: Antivirus Full Scan:** Use your regular antivirus (Windows Defender or installed security suite). Run a **Full system scan** to confirm nothing was missed.
 
-#### Phase 3: Browser Restoration (30 Minutes)
+### Phase 3: Browser Restoration (30 Minutes)
 
 * **Cleanup:** In each browser, use the built-in "Reset and clean up" (Chrome), "Refresh" (Firefox), or "Reset settings" (Edge) feature.
 * **Harden:** Remove all unwanted extensions, verify homepage, and **install uBlock Origin** (essential ad blocker).
 
-#### Phase 4: Advanced Threat Detection (Optional)
+### Phase 4: Advanced Threat Detection (Optional)
 
 * **For Persistent Threats:** Use specialized tools like **TDSKiller** (Kaspersky's rootkit detector) or **HitmanPro** (a second opinion scanner).
 * **For System Boot Issues:** Use **Windows Defender Offline** (Microsoft's bootable antivirus) to scan the system before Windows loads.
 
-#### Phase 5: System Verification and Hardening (45 Minutes)
+### Phase 5: System Verification and Hardening (45 Minutes)
 
 1.  **System Integrity Check:** Open Command Prompt as Administrator and run **`sfc /scannow`** to check Windows integrity.
 2.  **Updates:** Install all available Windows Updates and update all software/drivers.
 3.  **Verify Security:** Ensure real-time protection is **active** on your security software.
 
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/post cleanup checklist.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
 ---
 
-### When to Seek Professional Help: Clear Decision Points
+## When to Seek Professional Help: Clear Decision Points
+
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/Gemini_Generated_Image_hjf8avhjf8avhjf8.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
 
 | Immediate Professional Help Required (Call Within 2 Hours) | DIY Removal Appropriate (Safe to Attempt Self-Removal) |
 | :--- | :--- |
@@ -108,23 +144,27 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
-### Prevention Going Forward: Professional Hardening
+<p align="center">
+  <img src="/Images/Chapter 7 - What to Do If You're Infected/security mindset.png" width="460" height="460" alt="Different types of Modern CPU's">
+</p>
+
+## Prevention Going Forward: Professional Hardening
 
 Stopping Reinfection Before It Starts
 
-#### Immediate Post-Cleaning Security
+### Immediate Post-Cleaning Security
 
 * **Security Software Upgrade:** Uninstall any trial antivirus and install professional-grade protection (Bitdefender, Kaspersky, or Malwarebytes Premium).
 * **Browser Security:** **Install uBlock Origin** and **HTTPS Everywhere**. Remove suspicious extensions.
 * **Windows Security Configuration:** Enable **Windows Firewall**, configure **User Account Control (UAC)**, and **Disable AutoRun** to prevent USB malware spread.
 
-#### Long-term Protection Strategy
+### Long-term Protection Strategy
 
 * **Behavior Modifications:** Download software from **official sites only**, read installation screens carefully (to uncheck bundled software), and **verify email attachments**.
 * **Technical Safeguards:** Enable **automatic backups** (local and cloud) and use a **Standard User account** for daily tasks.
 * **Monthly Maintenance:** Run a full system scan, review browser extensions, and verify software updates.
 
-### Emergency Response Protocols
+## Emergency Response Protocols
 
 | Emergency Type | Immediate Action (First 30 Minutes) |
 | :--- | :--- |
@@ -134,7 +174,7 @@ Stopping Reinfection Before It Starts
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -142,11 +182,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **Containment:** Disconnect from the internet immediately when a threat is confirmed.
 * **Professional Help:** Seek help for ransomware, financial malware, or if the system won't boot.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 8**, we'll cover **Keeping Your Computer Healthy**—the essential knowledge you need to master the routine care that prevents problems before they become emergencies.
 
