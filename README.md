@@ -44,6 +44,7 @@ This repository contains the source files (in Markdown format) for the book "The
     
 ### Part 6: Practical Tips & Advanced Basics (Chapters 19–20)
 *Strategies for lasting performance and making smart long-term technology investments.*
+
 19. [Chapter 19: Performance Optimization](Part%20VII%20-%20Practical%20Tips%20%26%20Advanced%20Basics/Chapter%2019%20-%20Performance%20Optimization/Chapter19-PerformanceOptimization.md)
 20. [Chapter 20: Planning for the Future](Part%20VII%20-%20Practical%20Tips%20%26%20Advanced%20Basics/Chapter%2020%20-%20Planning%20for%20the%20Future/Chapter20-PlanningfortheFuture.md)
 
