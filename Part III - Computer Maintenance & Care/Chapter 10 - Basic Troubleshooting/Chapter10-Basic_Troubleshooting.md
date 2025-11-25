@@ -170,6 +170,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-This completes the foundational chapters! We recommend creating a **Final Chapter or Conclusion** to review all key takeaways and provide resources for continued learning.
+In [Chapter 11](../Chapter%2011%20-%20Understanding%20Hardware%20Problems/Chapter11-UnderstandingHardwareProblems.md) we will be covering Professional Diagnostics for Laptops, Desktops, and Basic Electronics.
 
 **Remember:** The most successful computer users know their capabilities and aren't afraid to ask for help when they reach those limits.
