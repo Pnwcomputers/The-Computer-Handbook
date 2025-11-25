@@ -123,6 +123,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 15**, we'll cover **Printer Setup and Troubleshooting**—the essential knowledge you need for professional installation and problem-solving for your peripherals.
+In [Chapter 15](../Chapter%2015%20-%20Printer%20and%20Peripheral%20Setup/Chapter15-PrinterandPeripheralSetup.md), we'll cover **Printer Setup and Troubleshooting**—the essential knowledge you need for professional installation and problem-solving for your peripherals.
 
 **Remember:** A well-configured network is the best security. Now that you've mastered connectivity, you're ready for the next level of security and networking.
