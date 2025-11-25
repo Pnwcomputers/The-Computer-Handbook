@@ -125,6 +125,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 13**, we'll cover **Home Network Basics**—the essential knowledge you need for professional setup and troubleshooting of your Wi-Fi and internet.
+In [Chapter 13](../../Part%20V%20-%20Networking%20%26%20Connectivity/Chapter%2013%20-%20Home%20Network%20Basics/Chapter13-HomeNetworkBasics.md), we'll cover **Home Network Basics**—the essential knowledge you need for professional setup and troubleshooting of your Wi-Fi and internet.
 
 **Remember:** The best computer users are the ones who proactively maintain their hardware and address issues before they become failures.
