@@ -115,6 +115,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 18**, we'll cover **Software Management**—the essential knowledge you need to keep your computer fast and secure by mastering installation and updates.
+In [Chapter 18](../../Part%20VII%20-%20Practical%20Tips%20%26%20Advanced%20Basics/Chapter%2018%20-%20Software%20Management/Chapter18-SoftwareManagement.md), we'll cover **Software Management**—the essential knowledge you need to keep your computer fast and secure by mastering installation and updates.
 
 **Remember:** Have systems (password manager, 2FA backup codes) and professional support in place before you need them.
