@@ -16,14 +16,20 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * Professional tips that save time and prevent problems
 
 ---
+
 <p align="center">
-  <img src="Images/Chapter 2 - Operating Systems Basics/what is windows.png" width="460" height="300" alt="What is Windows?">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/what is windows.png" width="460" height="460" alt="What is Windows?">
 </p>
+
 ## The Foundation: What is Windows 10/11?
 
 *Real Talk from the Repair Shop:* In our experience, people who don't understand their operating system are like drivers who don't know the difference between the engine and the steering wheel. They can get around, but when something goes wrong, they're helpless.
 
-#### Think of Windows as Your Digital Conductor
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/Digital Conductor Analogy.png" width="460" height="460" alt="What is Windows?">
+</p>
+
+### Think of Windows as Your Digital Conductor
 
 Your operating system is like the conductor of a symphony orchestra. Just as a conductor coordinates all the musicians to create beautiful music, Windows coordinates all your computer's hardware and software to work together seamlessly.
 
@@ -35,7 +41,7 @@ Your operating system is like the conductor of a symphony orchestra. Just as a c
 * **Security Management:** Protects your system from threats and unauthorized access
 * **File Organization:** Manages how your documents, photos, and programs are stored
 
-#### Windows 10 vs. Windows 11: What You Need to Know
+### Windows 10 vs. Windows 11: What You Need to Know
 
 *Professional Insight: We handle both versions daily. Here's what matters:*
 
@@ -56,18 +62,20 @@ Your operating system is like the conductor of a symphony orchestra. Just as a c
 
 ---
 <p align="center">
-  <img src="Images/Chapter 2 - Operating Systems Basics/navigating your desktop.png" width="460" height="300" alt="Navigating your Windows Desktop">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/navigatingyourdekstop.png" width="460" height="460" alt="Navigating your Windows Desktop">
 </p>
-### Navigating Your Desktop: The Professional Approach
+
+## Navigating Your Desktop: The Professional Approach
 
 *From Our Setup Experience:* We've configured thousands of desktops. The users who understand their interface have 60% fewer support calls.
 
-#### Your Desktop: More Than Just a Pretty Picture
+### Your Desktop: More Than Just a Pretty Picture
 
 Your desktop isn't just decoration - it's your command center. Here's how professionals organize it:
 <p align="center">
-  <img src="Images/Chapter 2 - Operating Systems Basics/desktop organize.png" width="460" height="300" alt="Navigating your Windows Desktop">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/desktop organize.png" width="500" height="500" alt="Navigating your Windows Desktop">
 </p>
+
 **Professional Organization Strategy:**
 
 * **Top-left corner:** Most important daily programs
@@ -80,9 +88,10 @@ Your desktop isn't just decoration - it's your command center. Here's how profes
 ---
 
 <p align="center">
-  <img src="Images/Chapter 2 - Operating Systems Basics/win10-desktop.png" width="460" height="300" alt="Navigating your Windows Desktop">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/win10-desktop.png" width="600" height="400" alt="Navigating your Windows Desktop">
 </p>
-#### The Start Menu: Your Program Headquarters
+
+## The Start Menu: Your Program Headquarters
 
 *Located:* Bottom-left corner of your screen
 
@@ -94,7 +103,7 @@ Your desktop isn't just decoration - it's your command center. Here's how profes
 
 *Time-Saving Tip:* Type program names instead of hunting through menus. Press **Windows key**, type "word", press **Enter** - Word opens instantly.
 
-#### The Taskbar: Your Mission Control
+### The Taskbar: Your Mission Control
 
 *What We Set Up During Migrations:*
 
@@ -110,7 +119,11 @@ Your desktop isn't just decoration - it's your command center. Here's how profes
 
 *From Our Migration Experience:* We photograph clients' old taskbar setups to recreate them exactly on new computers - familiar layouts reduce adaptation time by weeks.
 
-#### File Explorer: Your Digital Filing Cabinet
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/File Explorer Setup.png" width="460" height="460" alt="Windows File Explorer">
+</p>
+
+### File Explorer: Your Digital Filing Cabinet
 
 *Critical for Data Safety: Poor file management is the #1 cause of "lost" files.*
 
@@ -128,12 +141,19 @@ Your desktop isn't just decoration - it's your command center. Here's how profes
 * **Regular Cleanup:** Empty Recycle Bin weekly
 
 ---
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/file management fundamentals.png" width="460" height="460" alt="File Management">
+</p>
 
-### File Management Fundamentals
+## File Management Fundamentals
 
 "Where Are My Files?" - The #1 Support Question
 
 After handling thousands of data recovery cases, here's what prevents file loss:
+
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/file system.png" width="460" height="460" alt="Winodws File System">
+</p>
 
 #### Understanding Your File System
 
@@ -143,7 +163,7 @@ Think of it like a giant filing cabinet:
 * **Folders:** The drawers and folders inside
 * **Files:** The individual documents
 
-#### Critical File Locations Every User Must Know
+### Critical File Locations Every User Must Know
 
 **Your Personal Folders (where YOUR files should go):**
 
@@ -162,7 +182,7 @@ Think of it like a giant filing cabinet:
 
 *Data Recovery Reality Check:* 70% of "lost" files are just in the wrong folder. Users save files to Desktop or Downloads, then can't find them later.
 
-#### File Extensions: Knowing What You're Looking At
+### File Extensions: Knowing What You're Looking At
 
 *Professional Tip:* Always show file extensions. Most users can't tell the difference between a safe document and a dangerous program file.
 
@@ -180,7 +200,7 @@ Think of it like a giant filing cabinet:
 
 *Security Warning:* Files with double extensions like `document.pdf.exe` are usually malware. The real extension is `.exe` - it's a program disguised as a PDF.
 
-#### Professional File Organization Strategy
+### Professional File Organization Strategy
 
 *Based on 20+ Years of Data Migrations:*
 
@@ -199,14 +219,17 @@ Think of it like a giant filing cabinet:
 *Real Client Success Story:* A law firm came to us with 50,000 files named "Document1.pdf", "Document2.pdf", etc. After implementing our naming system, their file retrieval time dropped from 20 minutes per document to 30 seconds.
 
 ---
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/hardware vs software2.png" width="460" height="460" alt="Software vs Hardware">
+</p>
 
-### Understanding Software vs Hardware
+## Understanding Software vs Hardware
 
 The Foundation of All Computer Knowledge
 
 *From Our Diagnostic Experience:* Users who understand this difference can solve 80% of their own problems and communicate issues clearly when they need help.
 
-#### Hardware: The Physical Foundation
+### Hardware: The Physical Foundation
 
 **What You Can Touch:**
 
@@ -215,7 +238,7 @@ The Foundation of All Computer Knowledge
 
 *Professional Hardware Assessment:* During our diagnostics, we test each component separately to identify failures.
 
-#### Software: The Digital Instructions
+### Software: The Digital Instructions
 
 **What Makes Hardware Useful:**
 
@@ -237,7 +260,7 @@ The Foundation of All Computer Knowledge
 | Slow performance despite good software (old hard drive) | Frequent crashes (driver conflicts, malware) |
 | Display problems (graphics card, monitor issues) | Error messages (corrupted system files) |
 
-#### Why This Knowledge Saves You Money
+### Why This Knowledge Saves You Money
 
 *From Our Service Experience:*
 
@@ -251,11 +274,11 @@ The Foundation of All Computer Knowledge
 
 ---
 
-### Professional Setup and Optimization Tips
+## Professional Setup and Optimization Tips
 
 Based on Thousands of Computer Configurations
 
-#### New Computer Setup Checklist
+### New Computer Setup Checklist
 
 **First 24 Hours:**
 
@@ -273,7 +296,7 @@ Based on Thousands of Computer Configurations
 * Test everything: Printing, internet, email, peripheral devices
 * Create restore point: Backup of clean system state
 
-#### Performance Optimization That Actually Works
+### Performance Optimization That Actually Works
 
 *From Our Tune-up Procedures:*
 
@@ -285,7 +308,7 @@ Based on Thousands of Computer Configurations
 
 ***
 
-### Chapter Summary: Key Takeaways
+## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
 
@@ -293,11 +316,11 @@ Review the most critical concepts learned in this chapter to cement your foundat
 * **File Management:** Save files in proper folders and always show extensions (`.exe`).
 * **Troubleshooting:** Knowing Hardware vs. Software saves you time and money.
 
-#### Professional Insight:
+### Professional Insight:
 
 > "The knowledge you gain here isn't just theory—it's the front-line reality that keeps our clients secure and productive."
 
-### What's Next?
+## What's Next?
 
 In **Chapter 3**, we'll cover **Setting Up a New Computer**—the essential knowledge you need to use professional procedures for optimal performance and security from day one.
 
