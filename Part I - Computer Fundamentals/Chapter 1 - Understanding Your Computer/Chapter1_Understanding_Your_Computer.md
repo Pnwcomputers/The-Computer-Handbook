@@ -34,6 +34,10 @@ The "magic" isn't magic at all—it's just doing millions of simple calculations
 
 Let's start with what matters for everyday users. I'll skip the technical jargon and focus on what you actually need to know.
 
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/cpu image.jpg" width="460" height="300" alt="Different types of Modern CPU's">
+</p>
+
 ### The Brain: CPU (Central Processing Unit)
 
 * **What it is:** The CPU is literally the **"brain"** of your computer. Every task—opening a program, loading a website, playing a video—requires the CPU to do calculations.
@@ -50,6 +54,10 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 * Computer takes more than 2 minutes to fully start up
 * Programs take 30+ seconds to open
 * Everything feels sluggish, even simple tasks
+
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/ram.jpg" width="460" height="300" alt="Different types of Computer RAM">
+</p>
 
 ### Memory: RAM (Random Access Memory)
 
@@ -68,6 +76,9 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 * You hear the hard drive working constantly (grinding or clicking sounds—this usually means the system is using the slower hard drive as temporary memory)
 * Programs crash or close unexpectedly when multitasking
 
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/hddssd.jpg" width="460" height="300" alt="Description of the image">
+</p>
 ### Storage: Hard Drive or SSD
 
 * **What it is:** This is your computer's **long-term memory**—where it stores everything permanently, even when turned off.
@@ -85,6 +96,9 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 
 *Real-world comparison:* Hard drives are like filing cabinets—they hold everything, but finding and accessing files takes time. SSDs are like having everything organized on your desk—instant access.
 
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/mobos.jpg" width="460" height="300" alt="Different types of Motherboards">
+</p>
 ## The Foundation: Motherboard
 
 * **What it is:** The motherboard is the main circuit board that connects everything together. Think of it as your computer's **nervous system**.
@@ -101,6 +115,9 @@ Let's start with what matters for everyday users. I'll skip the technical jargon
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/laptopvsdesktop.jpg" width="460" height="300" alt="Desktops vs Laptops">
+</p>
 ## Desktop vs. Laptop: Making the Right Choice
 
 Based on 20+ years of helping customers choose computers
@@ -212,7 +229,9 @@ These are terms you'll encounter throughout this book and in everyday computer u
 | **Cloud Storage** | Storing files on internet servers instead of your computer. Examples: **OneDrive, Google Drive, iCloud, Dropbox**. | A safety deposit box you can access from anywhere. |
 
 ---
-
+<p align="center">
+  <img src="/Images/Chapter 1 - Understanding Your Computer/commonports.jpg" width="460" height="300" alt="Common Computer Ports">
+</p>
 ## Common Ports and Connections
 
 Understanding the ports (connection holes) on your computer helps you connect devices and troubleshoot problems.
