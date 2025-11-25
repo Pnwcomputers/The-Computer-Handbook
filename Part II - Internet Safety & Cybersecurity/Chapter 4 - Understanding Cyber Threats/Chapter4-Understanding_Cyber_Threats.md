@@ -235,6 +235,11 @@ If you see these, **stop using your computer immediately and disconnect from the
 
 ***
 
+<p align="center">
+  <img src="/Images/Chapter 5 - Protecting Yourself Online/security investment roi.png" width="500" height="500" alt="Cybercrime Cost Breakdown">
+</p>
+
+
 ## Chapter Summary: Key Takeaways
 
 Review the most critical concepts learned in this chapter to cement your foundation:
