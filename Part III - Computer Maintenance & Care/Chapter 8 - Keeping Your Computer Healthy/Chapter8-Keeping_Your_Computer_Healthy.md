@@ -217,6 +217,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 9**, we'll cover **Data Backup Essentials**—the essential knowledge you need to establish the safety net that protects your photos and critical files.
+In [Chapter 9](../Chapter%209%20-%20Data%20Backup%20Essentials/Chapter9-Data_Backup_Essentials.md), we'll cover **Data Backup Essentials**—the essential knowledge you need to establish the safety net that protects your photos and critical files.
 
 **Remember:** Good maintenance makes your computer run better, but good backup ensures that even disaster can't destroy your important files.
