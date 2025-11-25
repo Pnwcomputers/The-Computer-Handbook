@@ -67,6 +67,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
   <img src="/Images/Chapter 13 - Home Network Basics/router security.png" width="400" height="400" alt="Router Security">
 </p> 
 
+<p align="center">
+  <img src="/Images/Chapter 14 - Internet Troubleshooting/24 and 5ghz compared.png" width="400" height="400" alt="Router Security">
+</p>
+
 ### Phase 3: Professional Optimization
 
 * **WiFi Channel Selection:** For the 2.4GHz band, use channels **1, 6, or 11** (non-overlapping) to reduce interference.
