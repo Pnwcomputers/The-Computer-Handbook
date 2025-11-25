@@ -16,7 +16,9 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * Professional tips that save time and prevent problems
 
 ---
-
+<p align="center">
+  <img src="Images/Chapter 2 - Operating Systems Basics/what is windows.png" width="460" height="300" alt="What is Windows?">
+</p>
 ## The Foundation: What is Windows 10/11?
 
 *Real Talk from the Repair Shop:* In our experience, people who don't understand their operating system are like drivers who don't know the difference between the engine and the steering wheel. They can get around, but when something goes wrong, they're helpless.
@@ -53,7 +55,9 @@ Your operating system is like the conductor of a symphony orchestra. Just as a c
 *Professional Setup Tip:* During new computer setups, we use `OOBE\BYPASSNRO` to avoid forced Microsoft account creation, giving you more control over your initial setup.
 
 ---
-
+<p align="center">
+  <img src="Images/Chapter 2 - Operating Systems Basics/navigating your desktop.png" width="460" height="300" alt="Navigating your Windows Desktop">
+</p>
 ### Navigating Your Desktop: The Professional Approach
 
 *From Our Setup Experience:* We've configured thousands of desktops. The users who understand their interface have 60% fewer support calls.
@@ -61,7 +65,9 @@ Your operating system is like the conductor of a symphony orchestra. Just as a c
 #### Your Desktop: More Than Just a Pretty Picture
 
 Your desktop isn't just decoration - it's your command center. Here's how professionals organize it:
-
+<p align="center">
+  <img src="Images/Chapter 2 - Operating Systems Basics/desktop organize.png" width="460" height="300" alt="Navigating your Windows Desktop">
+</p>
 **Professional Organization Strategy:**
 
 * **Top-left corner:** Most important daily programs
@@ -71,6 +77,11 @@ Your desktop isn't just decoration - it's your command center. Here's how profes
 
 *Real Client Story:* A small business owner kept 150+ icons on his desktop. His computer took 3 minutes just to load the desktop. After our cleanup and organization, boot time dropped to 30 seconds.
 
+---
+
+<p align="center">
+  <img src="Images/Chapter 2 - Operating Systems Basics/win10-desktop.png" width="460" height="300" alt="Navigating your Windows Desktop">
+</p>
 #### The Start Menu: Your Program Headquarters
 
 *Located:* Bottom-left corner of your screen
