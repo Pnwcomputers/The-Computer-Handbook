@@ -109,6 +109,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 12**, we'll cover **Basic Hardware Maintenance**—the essential knowledge you need to extend your computer's life through simple care.
+In [Chapter 12](../Chapter%2012%20-%20Basic%20Hardware%20Maintenance/Chapter12-BasicHardwareMaintenance.md), we'll cover **Basic Hardware Maintenance**—the essential knowledge you need to extend your computer's life through simple care.
 
 **Remember:** Don't guess—**test**. Start with the External Visual Inspection and move systematically through power, RAM, and storage.
