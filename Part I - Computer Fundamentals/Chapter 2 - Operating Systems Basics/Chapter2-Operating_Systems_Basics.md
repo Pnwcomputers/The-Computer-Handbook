@@ -322,7 +322,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In [Chapter 3](Part%20I%20-%20Computer%20Fundamentals/Chapter%203%20-%20Setting%20Up%20a%20New%20Computer/Chapter3-Setting_Up_a_New_Computer.md)
-, we'll cover **Setting Up a New Computer**—the essential knowledge you need to use professional procedures for optimal performance and security from day one.
+In [Chapter 3](../Chapter%203%20-%20Setting%20Up%20a%20New%20Computer/Chapter3-Setting_Up_a_New_Computer.md), we'll cover **Setting Up a New Computer**—the essential knowledge you need to use professional procedures for optimal performance and security from day one.
 
 **Remember:** Understanding your operating system isn't about becoming a computer expert - it's about being in control of your digital environment and knowing when something isn't normal.
