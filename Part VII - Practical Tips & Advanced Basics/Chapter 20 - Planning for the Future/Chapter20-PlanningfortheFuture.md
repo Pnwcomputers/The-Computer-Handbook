@@ -22,6 +22,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 *Professional Insight: "The most expensive technology decisions are the short-sighted ones. Every computer purchase should be made with a 7-10 year plan..."*
 
+<p align="center">
+  <img src="/Images/Chapter 20 - Planning for the Future/tech lifecycle.png" width="400" height="400" alt="Tech Lifecycle">
+</p>
+
 #### Understanding Professional Technology Lifecycle Planning
 
 | Category | Investment Focus | Lifespan |
@@ -51,6 +55,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 20 - Planning for the Future/upgrade or replace.png" width="400" height="400" alt="Upgrade vs Replace">
+</p>
+
 ### Upgrade vs Replace Decisions: Professional Analysis
 
 *The decision should be based on measurable performance improvements, cost analysis, and realistic longevity projections.*
@@ -74,6 +82,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 20 - Planning for the Future/practical tech trends.png" width="400" height="400" alt="Practical Tech Trends">
+</p>
+
 ### Technology Trends to Understand
 
 *Professional analysis focuses on practical evolution, not marketing hype.*
@@ -92,6 +104,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Longevity:** Budget for an **annual maintenance service** (cleaning, thermal paste checks) to prevent hardware failures caused by heat and dust.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 20 - Planning for the Future/security habits.png" width="400" height="400" alt="Security Habits">
+</p>
 
 ### Building Long-term Security Habits
 
@@ -123,6 +139,10 @@ Review the most critical concepts learned in this chapter to cement your foundat
 **Remember:** Technology should serve you, not control you. The habits you build today will determine whether technology enhances your productivity for years to come or creates constant stress and expense.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 20 - Planning for the Future/other resources.png" width="500" height="500" alt="Where To Go From Here">
+</p>
 
 ## Beyond This Handbook: Advanced Professional Resources
 
