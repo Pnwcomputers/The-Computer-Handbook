@@ -130,6 +130,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ### What's Next?
 
-In **Chapter 14**, we'll cover **Internet Troubleshooting**—the essential knowledge you need to solve common connectivity issues before blaming your ISP.
+In [Chapter 14](../Chapter%2014%20-%20Internet%20Troubleshooting/Chapter14-InternetTroubleshooting.md), we'll cover **Internet Troubleshooting**—the essential knowledge you need to solve common connectivity issues before blaming your ISP.
 
 **Remember:** A well-configured home network is invisible when it's working properly. Spend time setting it up right once, and enjoy years of reliable connectivity.
