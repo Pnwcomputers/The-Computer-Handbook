@@ -16,6 +16,9 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * Basic computer terminology that matters
 
 ---
+<p align="center">
+  <img src="/Images/Chapter 2 - Operating Systems Basics/computer diagram.png" width="500" height="500" alt="Different types of Modern CPU's">
+</p>
 
 ## What Is a Computer, Really?
 
