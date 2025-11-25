@@ -230,6 +230,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 7**, we'll cover **What to Do If You're Infected**—the essential knowledge you need to follow the exact step-by-step procedures we use to eliminate malware.
+In [Chapter 7](../Chapter%207%20-%20What%20to%20Do%20If%20You%27re%20Infected/Chapter7-WhattoDo_IfYoure_Infected.md), we'll cover **What to Do If You're Infected**—the essential knowledge you need to follow the exact step-by-step procedures we use to eliminate malware.
 
 **Remember:** The people who get infected the least aren't necessarily the most tech-savvy - they're the most cautious. When in doubt, don't click. It's easier to prevent an infection than to clean one.
