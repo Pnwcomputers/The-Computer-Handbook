@@ -5,6 +5,10 @@
 
 > "Applied a performance tune-up to the system to maximize performance; start-up program/services management, temp/cache/cookie file clean-up, visual effects optimization and paging file optimization. CCleaner removed over 3.5GB's of junk data from the computer." - From our professional computer cleanup procedures.
 
+<p align="center">
+  <img src="/Images/Chapter 8 - Keeping Your Computer Healthy/junk data.png" width="460" height="460" alt="Performance Realities">
+</p>
+
 After over 20 years of computer security, repairs, and migrations, this chapter gives you the exact strategies and professional realities we use on the front lines to cover **Systematically Managing System Resources**.
 
 ### What You'll Learn in This Chapter:
@@ -17,6 +21,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * When software optimization isn't enough
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/reality of performance.png" width="460" height="460" alt="Performance Realities">
+</p>
 
 ## The Reality of Computer Performance
 
@@ -35,6 +43,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 | Extended hardware lifespan (optimized systems last longer). | Network performance problems outside the local computer. |
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/performance.png" width="460" height="460" alt="Optimize Performance">
+</p>
 
 ### Speeding Up a Slow Computer: Professional Procedures
 
@@ -66,6 +78,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 
 ---
 
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/manage storage.png" width="460" height="460" alt="Manage Your Storage">
+</p>
+
 ### Managing Storage Space: Professional Procedures
 
 #### Professional Storage Cleanup:
@@ -79,6 +95,10 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Defragmentation:** Run Windows defragmentation **only on traditional Hard Disk Drives (HDDs)**. **Never defragment Solid State Drives (SSDs)**; Windows optimizes them differently.
 
 ---
+
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/when to upgrade.png" width="460" height="460" alt="When to Upgrade">
+</p>
 
 ### When to Consider Upgrades: Professional Assessment
 
@@ -99,7 +119,15 @@ After over 20 years of computer security, repairs, and migrations, this chapter 
 * **Targeted Upgrades (8% of cases):** Only upgrade hardware after a specific bottleneck (e.g., RAM usage at 95% constantly) has been identified through resource monitoring.
 * **System Replacement (2% of cases):** Consider new hardware if upgrade costs exceed **60% of a new system's replacement cost** or if the system architecture is too obsolete (7+ years old).
 
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/hdd vs ssd.png" width="460" height="460" alt="HDD vs SSD">
+</p>
+
 ***
+
+<p align="center">
+  <img src="/Images/Chapter 19 - Performance Optimization/lasting speed.png" width="460" height="460" alt="Lasting Speed">
+</p>
 
 ### Chapter Summary: Key Takeaways
 
