@@ -188,6 +188,6 @@ Review the most critical concepts learned in this chapter to cement your foundat
 
 ## What's Next?
 
-In **Chapter 8**, we'll cover **Keeping Your Computer Healthy**—the essential knowledge you need to master the routine care that prevents problems before they become emergencies.
+In [Chapter 8](../../Part%20III%20-%20Computer%20Maintenance%20%26%20Care/Chapter%208%20-%20Keeping%20Your%20Computer%20Healthy/Chapter8-Keeping_Your_Computer_Healthy.md), we'll cover **Keeping Your Computer Healthy**—the essential knowledge you need to master the routine care that prevents problems before they become emergencies.
 
 **Remember:** Malware infection isn't a matter of if, but when. Being prepared with professional response procedures turns potential disasters into manageable inconveniences.
